@@ -361,7 +361,7 @@ graph LR
 
 <div align="center">
 
-**[⬆ Back to Top](#-daily-llm-papers)**
+**[⬆ Back to Top](#-awesome-LLM-papers)**
 
 Made with ❤️ for the AI Research Community
 
