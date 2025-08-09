@@ -31,7 +31,7 @@
 
 ## 🔥 Today's Pick
 
-> **January 15, 2025** | Fresh breakthrough @ 9:00 AM PST
+
 
 ### 🏆 **[Attention Bottlenecks: Rethinking Transformer Efficiency at Scale](https://arxiv.org/abs/2025.xxxxx)**
 
