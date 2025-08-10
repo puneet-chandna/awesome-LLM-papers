@@ -1,0 +1,118 @@
+name: 📄 Submit a Paper
+description: Suggest a groundbreaking LLM paper for inclusion
+title: "[Paper]: "
+labels: ["new-paper", "pending-review"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for contributing! 🎉
+        Please fill out the information below. Reviews happen within 24 hours.
+
+  - type: input
+    id: paper-title
+    attributes:
+      label: Paper Title
+      description: Full title of the paper
+      placeholder: "Attention Is All You Need"
+    validations:
+      required: true
+
+  - type: input
+    id: paper-link
+    attributes:
+      label: Paper Link
+      description: ArXiv, OpenReview, or official publication link
+      placeholder: "https://arxiv.org/abs/..."
+    validations:
+      required: true
+
+  - type: input
+    id: authors
+    attributes:
+      label: Authors & Institution
+      description: First author et al., Institution
+      placeholder: "Vaswani et al., Google Brain"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-matters
+    attributes:
+      label: Why This Matters
+      description: Explain the real-world impact in 2-3 sentences
+      placeholder: "This paper introduces transformers, which..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: key-innovations
+    attributes:
+      label: Key Innovations
+      description: List 2-3 main breakthroughs
+      placeholder: |
+        - Self-attention mechanism replacing RNNs
+        - Parallel processing capability
+        - Position encoding method
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Select the most relevant category
+      options:
+        - Architecture & Models
+        - Reasoning & Logic
+        - Efficiency & Speed
+        - Safety & Alignment
+        - Multimodal
+        - Fine-tuning & PEFT
+        - Applications
+    validations:
+      required: true
+
+  - type: input
+    id: code-link
+    attributes:
+      label: Code Repository (if available)
+      description: GitHub or official implementation
+      placeholder: "https://github.com/..."
+    validations:
+      required: false
+
+  - type: input
+    id: demo-link
+    attributes:
+      label: Demo Link (if available)
+      description: HuggingFace Space, Colab, or web demo
+      placeholder: "https://huggingface.co/spaces/..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: This paper is not already in the repository
+          required: true
+        - label: This represents a significant advancement (not incremental)
+          required: true
+        - label: The paper is from a credible source
+          required: true
+        - label: I've provided clear explanation of impact
+          required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other information (Twitter threads, blog posts, etc.)
+      placeholder: "The authors gave a great talk at NeurIPS..."
+    validations:
+      required: false
