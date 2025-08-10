@@ -1,7 +1,7 @@
 # Attention Is All You Need - Detailed Summary
 
 📄 **Paper:** [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
-👥 **Authors:** Ashish Vaswani, Noam Shazeer, Niki Parmar, et al.  
+👥 **Authors:** Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.  
 🏛️ **Institution:** Google Brain & Google Research  
 📅 **Published:** June 2017 (NeurIPS 2017)
 
@@ -81,9 +81,9 @@ def self_attention(query, key, value):
 - Simple ideas can be revolutionary when executed well
 - Foundation for AGI? All major LLMs build on this architecture
 ## 📚 Essential Resources
-- Original Paper
-- Official TensorFlow Implementation
-- The Illustrated Transformer - Best visual explanation
-- Annotated Transformer - Line-by-line implementation
-- Authors' Talk at NeurIPS
-## 📝 This summary is part of Awesome LLM Papers - Star us for daily research updates!
+- [Original Paper](https://arxiv.org/abs/1706.03762)
+- [Official TensorFlow Implementation](https://github.com/tensorflow/tensor2tensor)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Best visual explanation
+- [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Line-by-line implementation
+- [Authors' Talk at NeurIPS](https://www.youtube.com/watch?v=rBCqOTEfxvg)
+## 📝 This summary is part of [Awesome LLM Papers](https://github.com/puneet-chandna/awesome-LLM-papers) - Star us for daily research updates!
