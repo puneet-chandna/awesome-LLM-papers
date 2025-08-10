@@ -75,15 +75,15 @@ def self_attention(query, key, value):
     output = torch.matmul(weights, value)
     return output
 ```
-🎓 Key Takeaways
-Attention is indeed all you need - Removed need for recurrence/convolution
-Parallelization > Sequential processing for modern hardware
-Simple ideas can be revolutionary when executed well
-Foundation for AGI? All major LLMs build on this architecture
-📚 Essential Resources
-Original Paper
-Official TensorFlow Implementation
-The Illustrated Transformer - Best visual explanation
-Annotated Transformer - Line-by-line implementation
-Authors' Talk at NeurIPS
-This summary is part of Awesome LLM Papers - Star us for daily research updates!
+## 🎓 Key Takeaways
+- Attention is indeed all you need - Removed need for recurrence/convolution
+- Parallelization > Sequential processing for modern hardware
+- Simple ideas can be revolutionary when executed well
+- Foundation for AGI? All major LLMs build on this architecture
+## 📚 Essential Resources
+- Original Paper
+- Official TensorFlow Implementation
+- The Illustrated Transformer - Best visual explanation
+- Annotated Transformer - Line-by-line implementation
+- Authors' Talk at NeurIPS
+## 📝 This summary is part of Awesome LLM Papers - Star us for daily research updates!
