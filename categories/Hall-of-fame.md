@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Papers](https://img.shields.io/badge/Papers-40+-blue.svg)](https://github.com)
 [![Years](https://img.shields.io/badge/Years-2017--2025-green.svg)](https://github.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC0](https://img.shields.io/badge/License-CC0-yellow.svg)](https://opensource.org/licenses/CC0-1.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ### A curated collection of pivotal papers that shaped the landscape of Large Language Models
@@ -266,7 +266,7 @@ Feel free to submit PRs to add more foundational papers or improve existing entr
 
 ### 📜 License
 
-This repository is licensed under MIT License.
+This repository is licensed under CC0 License.
 
 ### 🙏 Acknowledgments
 
