@@ -3,10 +3,13 @@
 <div align="center">
 
 ![Daily LLM Papers](https://img.shields.io/badge/Awesome%20LLM%20Papers-Breaking%20Research%20Daily-blue?style=for-the-badge&logo=arxiv&logoColor=white)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/puneet-chandna/awesome-LLM-papers?style=for-the-badge&color=yellow)](https://github.com/puneet-chandna/awesome-LLM-papers/stargazers)
 [![Updates](https://img.shields.io/badge/Updates-Daily%20@%209AM%20IST-green?style=for-the-badge)](https://github.com/puneet-chandna/awesome-LLM-papers)
 <!-- [![Newsletter](https://img.shields.io/badge/Newsletter-500+%20Subscribers-red?style=for-the-badge)](https://your-newsletter-link.com) -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+
+
 
 <h3>Read what matters. Skip the noise. 🎯</h3>
 
@@ -506,22 +509,35 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 
 
 ---
-## 🔍 Filters by Tags
+## 🏷️ Explore by Tags
 
-### Find papers by tag combination:
-- [**Production-Ready Open Source**](#) 
-  `open-source` AND `production-ready`
-  
-- [**Efficient Reasoning**](#)
-  `efficient` AND `reasoning`
-  
-- [**Small Models (<7B)**](#)
-  `<1B` OR `1B-7B`
+<div align="center">
 
-### Popular tag combinations:
-[`multimodal` + `open-source`](#) (12 papers)
-[`efficient` + `sota`](#) (8 papers)
-[`reasoning` + `agent`](#) (15 papers)
+<!-- Trending Tags Section -->
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/🔥_mixture--of--experts-12_papers-ff6b6b?style=for-the-badge&labelColor=000000" alt="moe"/></a>
+<a href="#"><img src="https://img.shields.io/badge/🔥_long--context-8_papers-4ecdc4?style=for-the-badge&labelColor=000000" alt="long-context"/></a>
+<a href="#"><img src="https://img.shields.io/badge/🔥_rag-15_papers-45b7d1?style=for-the-badge&labelColor=000000" alt="rag"/></a>
+<a href="#"><img src="https://img.shields.io/badge/🔥_agents-11_papers-96ceb4?style=for-the-badge&labelColor=000000" alt="agents"/></a>
+</p>
+
+<!-- Most Used Tags -->
+**📊 Most Used Tags**
+
+<kbd><a href="#">transformer (67)</a></kbd> • <kbd><a href="#">efficient (45)</a></kbd> • <kbd><a href="#">reasoning (38)</a></kbd> • <kbd><a href="#">open-source (35)</a></kbd> • <kbd><a href="#">multimodal (28)</a></kbd>
+
+<kbd><a href="#">production-ready (25)</a></kbd> • <kbd><a href="#">breakthrough (22)</a></kbd> • <kbd><a href="#">sota (20)</a></kbd> • <kbd><a href="#">chain-of-thought (18)</a></kbd> • <kbd><a href="#">rlhf (15)</a></kbd>
+
+<!-- Quick Filters -->
+**🎯 Quick Filters**
+
+**By Impact:** [`🏆 breakthrough`](#) • [`⭐ sota`](#) • [`🚀 production-ready`](#) • [`🧪 experimental`](#)
+
+**By Org:** [`🟠 openai`](#) • [`🔷 anthropic`](#) • [`🔴 google`](#) • [`🔵 meta`](#) • [`🎓 academic`](#)
+
+**By Size:** [`<1B`](#) • [`1B-7B`](#) • [`7B-30B`](#) • [`30B+`](#)
+
+</div>
 
 ---
 
