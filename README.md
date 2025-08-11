@@ -36,35 +36,36 @@
 
 
 
-### 🏆 **[Attention Bottlenecks: Rethinking Transformer Efficiency at Scale](https://arxiv.org/abs/2025.xxxxx)**
+### 🏆 **[ The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)**
 
 <table>
 <tr>
 <td width="70%">
 
-**Authors:** *Sarah Chen, Marcus Wu et al.* • MIT & Google DeepMind
+**Authors:** *Parshin Shojaee, Iman Mirzadeh, Keivan Alizadeh, Maxwell Horton, Samy Bengio, Mehrdad Farajtabar* • Apple Machine Learning Research
 
-**Why this matters:** This paper introduces "Bottleneck Attention," reducing memory consumption by 70% while maintaining 99% of performance. This makes 100B+ parameter models trainable on consumer GPUs for the first time.
+**Why this matters:** This groundbreaking paper systematically exposes fundamental limitations of current "reasoning" models through controllable puzzle environments. It reveals that LRMs face complete accuracy collapse beyond certain complexities and paradoxically reduce reasoning effort as problems get harder..
 
 **Key Innovations:**
-- 🔸 Novel attention mechanism that processes only critical tokens
-- 🔸 Dynamic token pruning based on information density
-- 🔸 Backwards compatible with existing transformer architectures
+- 🔸  Controllable puzzle environments for systematic complexity manipulation
+- 🔸 Three performance regimes identified: low (standard models win), medium (LRMs excel), high (both fail)
+- 🔸 Counter-intuitive scaling discovery: reasoning effort decreases with problem complexity despite token budget
+- 🔸 Rigorous methodology avoiding data contamination issues of standard benchmarks 
 
 </td>
 <td width="30%">
 
 **Resources:**
-- 🔗 [**Code**](https://github.com/example/bottleneck-attention)
-- 📊 [**Demo**](https://huggingface.co/spaces/example)
-- 🐦 [**Thread**](https://twitter.com/author/status/xxx)
-- 📝 [**Our Summary**](summaries/bottleneck-attention.md)
+- 🔗 [**Paper**](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+- 📊 [**Apple Research Page**](https://machinelearning.apple.com/research)
+- 🐦 [**Thread**](https://x.com/bearlyai/status/1931731311615791544)
+
 
 **Impact Score:** 
 ```diff
-+ Performance: ████████░░ 85%
-+ Innovation:  █████████░ 92%
-+ Practicality:██████████ 98%
++ Performance: █████████░ 92%
++ Innovation:  ██████████ 98%
++ Practicality:████████░░ 85% 
 ```
 
 </td>
