@@ -98,11 +98,11 @@
 
 | Day | Paper | Impact | TL;DR |
 |-----|-------|--------|--------|
-| **Mon** | [🧮 Chain-of-Verification: Self-Correcting LLM Reasoning](https://arxiv.org) | `reasoning` `accuracy` | Reduces hallucination by 65% through iterative self-verification |
-| **Tue** | [⚡ FlashAttention-3: 10x Faster Training](https://arxiv.org) | `efficiency` `training` | New hardware-aware algorithm makes training 10x faster |
-| **Wed** | [🎨 DALL-E 3: Consistent Character Generation](https://arxiv.org) | `multimodal` `vision` | Maintains character consistency across multiple generations |
-| **Thu** | [🛡️ Constitutional RL: Safer RLHF Training](https://arxiv.org) | `safety` `alignment` | Reduces harmful outputs by 89% during training |
-| **Fri** | [🏗️ Mixture of Depths: Dynamic Computation](https://arxiv.org) | `architecture` `efficiency` | Adaptively uses layers based on input complexity |
+| **Mon** | [🧮 🧠 Self-Questioning Language Models](https://arxiv.org/abs/2508.03682) | `reasoning` `self-improvement` | LLMs improve without external data by generating and solving their own questions through asymmetric self-play |
+| **Tue** | [⚡ R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004) | `autonomous-learning` `reasoning` | Challenger-Solver framework boosts Qwen3-4B by +6.49 points on math benchmarks without any human data |
+| **Wed** | [ ⚡ Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298) | `speed` `inference` | Maintains character consistency across multiple generations |
+| **Thu** | [🤝 Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322) | `collaboration` `agents` | Comprehensive framework for LLM-based multi-agent systems - covers cooperation, competition, and coordination protocols |
+| **Fri** | [Tracing the thoughts of a large language model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) | `research` `testing` | We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model |
 
 </details>
 
@@ -251,7 +251,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </tbody>
 </table>
 
-[View all foundational papers →](hall-of-fame.md)
+[View all foundational papers →](categories/Hall-of-fame.md)
 
 ---
 
