@@ -6,10 +6,10 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/puneet-chandna/awesome-LLM-papers?style=for-the-badge&color=yellow)](https://github.com/puneet-chandna/awesome-LLM-papers/stargazers)
 [![Updates](https://img.shields.io/badge/Updates-Weekly%20@%209AM%20IST-green?style=for-the-badge)](https://github.com/puneet-chandna/awesome-LLM-papers)
+
 <!-- [![Newsletter](https://img.shields.io/badge/Newsletter-500+%20Subscribers-red?style=for-the-badge)](https://your-newsletter-link.com) -->
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
-
-
 
 <h3>Read what matters. Skip the noise. 🎯</h3>
 
@@ -40,11 +40,12 @@
 <tr>
 <td width="70%">
 
-**Authors:** *Behrooz Ghorbani, Ali Behrouz, Amir Zandieh, Amin Karbasi, Vahab Mirrokni, Mehrdad Farajtabar* • Google Research
+**Authors:** _Behrooz Ghorbani, Ali Behrouz, Amir Zandieh, Amin Karbasi, Vahab Mirrokni, Mehrdad Farajtabar_ • Google Research
 
 **Why this matters:** This groundbreaking paper introduces a new architecture that combines the power of Transformers with learnable memory modules, enabling models to memorize and recall information at test time. Titans achieve superior performance on long-context tasks while maintaining efficiency.
 
 **Key Innovations:**
+
 - 🔸 Neural long-term memory module that learns to memorize at test time
 - 🔸 Three architectural variants: Memory as Context (MAC), Memory as Gate (MAG), and Memory as Layer (MAL)
 - 🔸 Outperforms Transformers and modern linear recurrent models on language modeling, commonsense reasoning, and needle-in-haystack tasks
@@ -54,11 +55,13 @@
 <td width="30%">
 
 **Resources:**
+
 - 🔗 [**Paper**](https://arxiv.org/abs/2501.00663)
 - 📊 [**Google Research**](https://research.google/)
 - 🐦 [**Thread**](https://x.com/behrouz_ali/status/1878859086227255347?s=20)
 
 **Impact Score:**
+
 ```diff
 + Performance: █████████░ 94%
 + Innovation:  ██████████ 96%
@@ -70,17 +73,19 @@
 </table>
 
 ---
+
 ## 🔥 Trending Topics
-*"Hot research areas this month - Where the field is moving"*
+
+_"Hot research areas this month - Where the field is moving"_
 
 <div align="center">
 
-| Topic | Papers | Why It's Trending |
-|-------|--------|-------------------|
-| 🚀 **Mixture of Experts (MoE)** | [8 papers](categories/architectures.md#mixture-of-experts) | Efficient scaling beyond dense models - Mixtral, DeepSeek success |
-| 💡 **Million Token Context** | [6 papers](categories/rag.md#long-context) | Breaking the context barrier - full books & codebases in one prompt |
-| 🤖 **Autonomous Agents** | [12 papers](categories/reasoning.md#agent-systems) | From chatbots to actual workers - AutoGPT evolution |
-| 🔄 **Self-Improving Models** | [5 papers](categories/training.md#self-improvement) | Models that enhance themselves without human intervention |
+| Topic                           | Papers                                                      | Why It's Trending                                                   |
+| ------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| 🚀 **Mixture of Experts (MoE)** | [8 papers](categories/architectures.md#-mixture-of-experts) | Efficient scaling beyond dense models - Mixtral, DeepSeek success   |
+| 💡 **Million Token Context**    | [6 papers](categories/rag.md#-long-context)                 | Breaking the context barrier - full books & codebases in one prompt |
+| 🤖 **Autonomous Agents**        | [12 papers](categories/reasoning.md#-agent-systems)         | From chatbots to actual workers - AutoGPT evolution                 |
+| 🔄 **Self-Improving Models**    | [5 papers](categories/training.md#-self-improvement)        | Models that enhance themselves without human intervention           |
 
 </div>
 
@@ -93,13 +98,13 @@
 
 <br>
 
-| Day | Paper | Impact | TL;DR |
-|-----|-------|--------|--------|
-| **Mon** | [🧮 🧠 DeepSeek-R1: Incentivizing Reasoning](https://arxiv.org/abs/2501.12948) | `reasoning` `RL` | Novel RL framework that rewards intermediate reasoning steps, not just final answers |
-| **Tue** | [⚡ Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) | `architecture` `memory` | Google's memory-augmented architecture handles 2M+ token context with persistent memory |
-| **Wed** | [🔬 Scaling Monosemanticity](https://arxiv.org/abs/2406.04093) | `interpretability` `safety` | Extracting millions of interpretable features from Claude 3 Sonnet using sparse autoencoders |
-| **Thu** | [🤝 Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322) | `collaboration` `agents` | Comprehensive framework for LLM-based multi-agent systems - covers cooperation, competition, and coordination protocols |
-| **Fri** | [Tracing the thoughts of a large language model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) | `research` `testing` | We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model |
+| Day     | Paper                                                                                                                   | Impact                      | TL;DR                                                                                                                   |
+| ------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Mon** | [🧮 🧠 DeepSeek-R1: Incentivizing Reasoning](https://arxiv.org/abs/2501.12948)                                          | `reasoning` `RL`            | Novel RL framework that rewards intermediate reasoning steps, not just final answers                                    |
+| **Tue** | [⚡ Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)                                        | `architecture` `memory`     | Google's memory-augmented architecture handles 2M+ token context with persistent memory                                 |
+| **Wed** | [🔬 Scaling Monosemanticity](https://arxiv.org/abs/2406.04093)                                                          | `interpretability` `safety` | Extracting millions of interpretable features from Claude 3 Sonnet using sparse autoencoders                            |
+| **Thu** | [🤝 Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322)                           | `collaboration` `agents`    | Comprehensive framework for LLM-based multi-agent systems - covers cooperation, competition, and coordination protocols |
+| **Fri** | [Tracing the thoughts of a large language model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) | `research` `testing`        | We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model              |
 
 </details>
 
@@ -124,7 +129,7 @@
 <td>
 
 **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
-<br>*Vaswani et al., 2017*
+<br>_Vaswani et al., 2017_
 
 </td>
 <td align="center">
@@ -149,7 +154,7 @@ Created the Transformer architecture that powers all modern LLMs. Replaced RNNs 
 <td>
 
 **[GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)**
-<br>*Brown et al., 2020*
+<br>_Brown et al., 2020_
 
 </td>
 <td align="center">
@@ -174,7 +179,7 @@ Proved that scale leads to emergent abilities. In-context learning without fine-
 <td>
 
 **[Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)**
-<br>*Bai et al., 2022*
+<br>_Bai et al., 2022_
 
 </td>
 <td align="center">
@@ -199,7 +204,7 @@ Introduced RLAIF - training AI systems to be helpful and harmless using AI feedb
 <td>
 
 **[Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903)**
-<br>*Wei et al., 2022*
+<br>_Wei et al., 2022_
 
 </td>
 <td align="center">
@@ -224,7 +229,7 @@ Simple prompting technique that dramatically improves reasoning by asking models
 <td>
 
 **[RLHF: Training with Human Feedback](https://arxiv.org/abs/1706.03741)**
-<br>*Christiano et al., 2017*
+<br>_Christiano et al., 2017_
 
 </td>
 <td align="center">
@@ -253,21 +258,24 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ---
 
 ## 📚 Browse by Category
+
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  [🏗️ **Model Architectures**](#model-architectures)
-> *Transformers, SSMs, MoE, Novel designs*  
-**📄 10 papers** &nbsp;|&nbsp; 🔥
+### [🏗️ **Model Architectures**](#model-architectures)
+
+> _Transformers, SSMs, MoE, Novel designs_  
+> **📄 10 papers** &nbsp;|&nbsp; 🔥
 
 </td>
 <td width="50%" valign="top">
 
 ### [🧮 **Reasoning & Agents**](#reasoning--agents)
-> *CoT, Planning, Tool use, Autonomous systems*  
-**📄 6 papers** &nbsp;|&nbsp; 🔥🔥
+
+> _CoT, Planning, Tool use, Autonomous systems_  
+> **📄 6 papers** &nbsp;|&nbsp; 🔥🔥
 
 </td>
 </tr>
@@ -276,15 +284,17 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <td width="50%" valign="top">
 
 ### ⚡ [**Efficiency & Scaling**](#efficiency--scaling)
-> *Quantization, Pruning, Fast inference*  
-**📄 7 papers** &nbsp;|&nbsp; 🔥
+
+> _Quantization, Pruning, Fast inference_  
+> **📄 7 papers** &nbsp;|&nbsp; 🔥
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 [**Training & Alignment**](#training--alignment)
-> *RLHF, DPO, Fine-tuning, PEFT methods*  
-**📄 5 papers** &nbsp;|&nbsp; →
+
+> _RLHF, DPO, Fine-tuning, PEFT methods_  
+> **📄 5 papers** &nbsp;|&nbsp; →
 
 </td>
 </tr>
@@ -293,15 +303,17 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <td width="50%" valign="top">
 
 ### 🎨 [**Multimodal Models**](#multimodal-models)
-> *Vision-Language, Audio, Video, Any-to-any*  
-**📄 8 papers** &nbsp;|&nbsp; 🔥
+
+> _Vision-Language, Audio, Video, Any-to-any_  
+> **📄 8 papers** &nbsp;|&nbsp; 🔥
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 [**RAG & Knowledge**](#rag--knowledge)
-> *Retrieval systems, Long context, Memory*  
-**📄 8 papers** &nbsp;|&nbsp; 🔥🔥🔥
+
+> _Retrieval systems, Long context, Memory_  
+> **📄 8 papers** &nbsp;|&nbsp; 🔥🔥🔥
 
 </td>
 </tr>
@@ -310,23 +322,24 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <td width="50%" valign="top">
 
 ### 🛡️ [**Safety & Security**](#safety--security)
-> *Jailbreaks, Alignment, Robustness, Ethics*  
-**📄 4 papers** &nbsp;|&nbsp; →
+
+> _Jailbreaks, Alignment, Robustness, Ethics_  
+> **📄 4 papers** &nbsp;|&nbsp; →
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔬 [**Analysis & Theory**](#analysis--theory)
-> *Interpretability, Mechanistic, Evaluations*  
-**📄 3 papers** &nbsp;|&nbsp; →
+
+> _Interpretability, Mechanistic, Evaluations_  
+> **📄 3 papers** &nbsp;|&nbsp; →
 
 </td>
 </tr>
 </table>
 </div>
 
-
---- 
+---
 
 ### 🏗️ Model Architectures
 
@@ -334,11 +347,13 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <summary><b>View papers</b> (10 total) • <code>🔥 Hot area</code></summary>
 
 #### Latest Additions:
+
 - 🆕 **[Mamba-2: Improved State Space Models](https://arxiv.org/abs/2405.21060)** - 5x faster than Transformers at 100K+ context
 - 🆕 **[Mixture of Depths: Dynamic Layer Selection](https://arxiv.org/abs/2404.02258)** - Skip layers adaptively based on input
 - **[Retentive Networks: Retention Replaces Attention](https://arxiv.org/abs/2307.08621)** - O(1) memory complexity breakthrough
 
 #### Foundational Papers:
+
 - 🏆 **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** - The paper that started everything
 - **[BERT: Bidirectional Transformers](https://arxiv.org/abs/1810.04805)** - Revolutionized NLP pre-training
 - **[GPT-3: Few-Shot Learning](https://arxiv.org/abs/2005.14165)** - Proved scale leads to emergence
@@ -356,12 +371,14 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <details>
 <summary><b>View papers</b> (6 total) • <code>🔥🔥 Very hot area</code></summary>
 
-#### Agent Systems:   
+#### Agent Systems:
+
 - 🔥 **[ReAct: Reasoning and Acting](https://arxiv.org/abs/2210.03629)** - Combines reasoning with action execution
 - 🔥 **[Reflexion: Self-Reflecting Agents](https://arxiv.org/abs/2303.11366)** - Learn from mistakes autonomously
 - **[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)** - Self-taught tool use
 
 #### Reasoning Methods:
+
 - 🏆 **[Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903)** - Simple technique for complex reasoning
 - **[Tree of Thoughts](https://arxiv.org/abs/2305.10601)** - Explore multiple reasoning paths
 - **[Graph of Thoughts](https://arxiv.org/abs/2308.09687)** - Non-linear reasoning structures
@@ -380,11 +397,13 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <summary><b>View papers</b> (7 total) • <code>🔥 Hot area</code></summary>
 
 #### Inference Optimization:
+
 - 🆕 **[Speculative Decoding](https://arxiv.org/abs/2211.17192)** - 3x faster inference without quality loss
 - **[FlashAttention-2: Faster Attention](https://arxiv.org/abs/2307.08691)** - Optimized attention for inference
 - **[vLLM: PagedAttention](https://arxiv.org/abs/2309.06180)** - 24x throughput improvement
 
 #### Model Compression:
+
 - 🏆 **[QLoRA: 4-bit Quantization](https://arxiv.org/abs/2305.14314)** - Fine-tune 65B models on single GPU
 - **[GPTQ: Accurate Quantization](https://arxiv.org/abs/2210.17323)** - 3-4 bit quantization with minimal loss
 - **[SparseGPT: 50% Sparsity](https://arxiv.org/abs/2301.00774)** - Remove half the weights, keep performance
@@ -403,11 +422,13 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <summary><b>View papers</b> (5 total)</summary>
 
 #### Alignment Methods:
+
 - 🏆 **[RLHF: Human Feedback Training](https://arxiv.org/abs/1706.03741)** - The technique behind ChatGPT
 - 🆕 **[DPO: Direct Preference Optimization](https://arxiv.org/abs/2305.18290)** - Simpler alternative to RLHF
 - **[Constitutional AI](https://arxiv.org/abs/2212.08073)** - AI feedback for harmless assistants
 
 #### Fine-tuning Techniques:
+
 - **[LoRA: Low-Rank Adaptation](https://arxiv.org/abs/2106.09685)** - Parameter-efficient fine-tuning
 - **[Prefix Tuning](https://arxiv.org/abs/2101.00190)** - Tune only prefix parameters
 - **[FLAN: Instruction Tuning](https://arxiv.org/abs/2109.01652)** - Teaching models to follow instructions
@@ -426,11 +447,13 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <summary><b>View papers</b> (8 total) • <code>🔥 Hot area</code></summary>
 
 #### Vision-Language:
+
 - 🆕 **[GPT-4V: Visual Understanding](https://arxiv.org/abs/2303.08774)** - State-of-the-art visual reasoning
 - **[CLIP: Contrastive Vision-Language](https://arxiv.org/abs/2103.00020)** - Foundation for modern multimodal
 - **[LLaVA: Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)** - Open-source GPT-4V alternative
 
 #### Generation:
+
 - **[DALL-E 2: Text-to-Image](https://arxiv.org/abs/2204.06125)** - Photorealistic generation
 - **[Stable Diffusion](https://arxiv.org/abs/2112.10752)** - Open-source image generation
 - **[Sora: Text-to-Video](https://openai.com/index/video-generation-models-as-world-simulators/)** - Minute-long video generation
@@ -449,11 +472,13 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <summary><b>View papers</b> (4 total) • <code>🔥🔥🔥 Hottest area</code></summary>
 
 #### RAG Systems:
+
 - 🔥 **[Self-RAG: Self-Reflection](https://arxiv.org/abs/2310.11511)** - Adaptive retrieval and generation
 - 🔥 **[RAPTOR: Recursive Abstractive Processing](https://arxiv.org/abs/2401.18059)** - Tree-based retrieval
 - **[RAG: Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)** - The foundational RAG paper
 
 #### Long Context:
+
 - 🆕 **[Ring Attention: Million Token Context](https://arxiv.org/abs/2310.01889)** - Process entire books
 - **[LongLoRA: Efficient Long Context](https://arxiv.org/abs/2309.12307)** - Extend context to 100k+
 - **[Infini-attention: Infinite Context](https://arxiv.org/abs/2404.07143)** - Never-ending conversations
@@ -472,11 +497,13 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <summary><b>View papers</b> (4 total)</summary>
 
 #### Safety Research:
+
 - 🚨 **[Universal Adversarial Attacks](https://arxiv.org/abs/2307.15043)** - Attacks that work on all models
 - **[Circuit Breakers](https://arxiv.org/abs/2406.04313)** - Built-in safety mechanisms
 - **[Representation Engineering](https://arxiv.org/abs/2310.01405)** - Control model behavior directly
 
 #### Alignment:
+
 - **[Sleeper Agents](https://arxiv.org/abs/2401.05566)** - Hidden model behaviors
 - **[Scalable Oversight via Debate](https://arxiv.org/abs/1805.00899)** - Supervising superhuman AI
 - **[Weak-to-Strong Generalization](https://arxiv.org/abs/2312.09390)** - Superalignment research
@@ -498,21 +525,20 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 - **[Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)** - (2022) Investigating non-linear scaling behavior
 - **[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)** - (2021) Reverse engineer several toy, attention-only models by Anthropic
 
-
 **Tags:** `interpretability` `mechanistic` `theory` `analysis` `evaluation`
 
 [View all analysis papers →](categories/analysis.md)
 
 </details>
 
-
 ---
+
 <!--
 ## 🏷️ Explore by Tags
 
 <div align="center">
 
-<!-- Trending Tags Section 
+<!-- Trending Tags Section
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/🔥_mixture--of--experts-12_papers-ff6b6b?style=for-the-badge&labelColor=000000" alt="moe"/></a>
 <a href="#"><img src="https://img.shields.io/badge/🔥_long--context-8_papers-4ecdc4?style=for-the-badge&labelColor=000000" alt="long-context"/></a>
@@ -539,7 +565,6 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </div>
 -->
 
-
 ## 📈 Research Trends Dashboard
 
 <div align="center">
@@ -551,7 +576,7 @@ graph TD
     B -->|Agents & Tools| C[2025 Q2]
     B -->|1M+ Context| D[2025 Q2]
     B -->|MoE Everything| E[2025 Q2]
-    
+
     style A fill:#1f2937
     style B fill:#374151
     style C fill:#4b5563
@@ -559,11 +584,12 @@ graph TD
     style E fill:#9ca3af
 ```
 
-**This Month's Momentum:** 
+**This Month's Momentum:**
+
 - 📈 **Rising:** RAG Systems (+450%), Autonomous Agents (+320%), MoE Models (+280%)
 - 📉 **Cooling:** Basic Prompting (-60%), Small Models (-40%)
 - 🔮 **Next Wave:** Self-improving models, Multimodal reasoning, Edge deployment
--  **Current Hot Topics:** 🔥 Long Context (>1M tokens) | 🔥 Reasoning without CoT | 🔥 Efficient Fine-tuning
+- **Current Hot Topics:** 🔥 Long Context (>1M tokens) | 🔥 Reasoning without CoT | 🔥 Efficient Fine-tuning
 
 </div>
 
@@ -613,10 +639,11 @@ graph TD
 <a href="https://github.com/contributor4"><img src="https://github.com/contributor4.png" width="50" height="50" style="border-radius: 50%;" alt="contributor4"/></a>
 <a href="https://github.com/contributor5"><img src="https://github.com/contributor5.png" width="50" height="50" style="border-radius: 50%;" alt="contributor5"/></a>
 
- **Special thanks to our [23 contributors](https://github.com/yourusername/daily-papers-llm/graphs/contributors)** 
+ **Special thanks to our [23 contributors](https://github.com/yourusername/daily-papers-llm/graphs/contributors)**
 
 </div>
  -->
+
 ---
 
 <div align="center">
@@ -625,7 +652,7 @@ graph TD
 
 Made with ❤️ for the AI Research Community
 
-*Last updated: December 30, 2025, 9:00 PM IST*
+_Last updated: December 30, 2025, 9:00 PM IST_
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/puneet_chandna_?style=social)](https://x.com/puneet_chandna_)
 [![GitHub followers](https://img.shields.io/github/followers/puneet-chandna?style=social)](https://github.com/puneet-chandna)
