@@ -98,13 +98,13 @@ _"Hot research areas this month - Where the field is moving"_
 
 <br>
 
-| Day     | Paper                                                                                                                   | Impact                      | TL;DR                                                                                                                   |
-| ------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Mon** | [🧮 🧠 DeepSeek-R1: Incentivizing Reasoning](https://arxiv.org/abs/2501.12948)                                          | `reasoning` `RL`            | Novel RL framework that rewards intermediate reasoning steps, not just final answers                                    |
-| **Tue** | [⚡ Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)                                        | `architecture` `memory`     | Google's memory-augmented architecture handles 2M+ token context with persistent memory                                 |
-| **Wed** | [🔬 Scaling Monosemanticity](https://arxiv.org/abs/2406.04093)                                                          | `interpretability` `safety` | Extracting millions of interpretable features from Claude 3 Sonnet using sparse autoencoders                            |
-| **Thu** | [🤝 Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322)                           | `collaboration` `agents`    | Comprehensive framework for LLM-based multi-agent systems - covers cooperation, competition, and coordination protocols |
-| **Fri** | [Tracing the thoughts of a large language model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) | `research` `testing`        | We investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model              |
+| Day     | Paper                                                                                        | Impact                  | TL;DR                                                                                                                  |
+| ------- | -------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Mon** | [🧮 🧠 DeepSeek-V3.2: Reasoning Rival](https://arxiv.org/pdf/2512.02556)                     | `reasoning` `math`      | Open-source reasoning model rivaling GPT-5 in mathematics and logic at 1/10th the cost                                 |
+| **Tue** | [👁️ 🌍 VLJEPA: World Model Architecture](https://arxiv.org/pdf/2512.10942)                   | `vision` `architecture` | Meta's joint embedding predictive architecture for video/world modeling - learning physics without reconstruction      |
+| **Wed** | [⚡ Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663)             | `architecture` `memory` | Google's memory-augmented architecture handles 2M+ token context with persistent long-term memory                      |
+| **Thu** | [🏗️ Claude Opus 4.5: Engineering Excellence](https://www.anthropic.com/news/claude-opus-4-5) | `coding` `engineering`  | New benchmark for software engineering agents - outperforming human candidates in internal capability tests            |
+| **Fri** | [🤖 Self-Play SWE-RL: Autonomous Coding](https://arxiv.org/pdf/2512.18552)                   | `agents` `RL`           | Meta's system where agents learn to code by generating and fixing their own bugs, creating superhuman coding abilities |
 
 </details>
 
