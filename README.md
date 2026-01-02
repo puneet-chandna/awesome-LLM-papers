@@ -80,12 +80,12 @@ _"Hot research areas this month - Where the field is moving"_
 
 <div align="center">
 
-| Topic                           | Papers                                                      | Why It's Trending                                                   |
-| ------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
-| 🚀 **Mixture of Experts (MoE)** | [8 papers](categories/architectures.md#-mixture-of-experts) | Efficient scaling beyond dense models - Mixtral, DeepSeek success   |
-| 💡 **Million Token Context**    | [6 papers](categories/rag.md#-long-context)                 | Breaking the context barrier - full books & codebases in one prompt |
-| 🤖 **Autonomous Agents**        | [12 papers](categories/reasoning.md#-agent-systems)         | From chatbots to actual workers - AutoGPT evolution                 |
-| 🔄 **Self-Improving Models**    | [5 papers](categories/training.md#-self-improvement)        | Models that enhance themselves without human intervention           |
+| Topic                             | Papers                                                       | Why It's Trending                                                        |
+| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| 🧠 **Memory-Augmented LLMs**      | [10 papers](categories/architectures.md#-memory-systems)     | Titans architecture - test-time memorization over 2M+ token contexts     |
+| 🤖 **Agentic AI & Autonomy**      | [15 papers](categories/reasoning.md#-agent-systems)          | Self-play SWE-RL, autonomous coding agents managing full repositories    |
+| 🚀 **MoE & Sparse Architectures** | [12 papers](categories/architectures.md#-mixture-of-experts) | DeepSeek V3 - 671B params, 37B active per inference, crushing benchmarks |
+| 🔄 **Recursive Language Models**  | [6 papers](categories/training.md#-self-improvement)         | Context folding, sub-LLM calling - managing infinite context elegantly   |
 
 </div>
 
@@ -572,24 +572,35 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 graph TD
-    A[2024 Q4] -->|RAG Revolution| B[2025 Q1]
-    B -->|Agents & Tools| C[2025 Q2]
-    B -->|1M+ Context| D[2025 Q2]
-    B -->|MoE Everything| E[2025 Q2]
+    Q1[2025 Q1] -->|RAG Revolution| Q2[2025 Q2]
+    Q2 -->|Agents & Tools| Q3[2025 Q3]
+    Q2 -->|1M+ Context| Q3
+    Q2 -->|MoE Everything| Q3
+    Q3 -->|Reasoning Models| Q4[2025 Q4]
+    Q3 -->|Multimodal Fusion| Q4
+    Q4 -->|Memory Architectures| C[2026 Q1]
+    Q4 -->|Agentic AI Boom| D[2026 Q1]
+    Q4 -->|MoE at Scale| E[2026 Q1]
+    C -->|Recursive LMs| F[2026 Q2]
+    D -->|Self-Improving Agents| F
+    E -->|200K+ Context| F
 
-    style A fill:#1f2937
-    style B fill:#374151
+    style Q1 fill:#0f172a
+    style Q2 fill:#1e293b
+    style Q3 fill:#334155
+    style Q4 fill:#475569
     style C fill:#4b5563
     style D fill:#6b7280
     style E fill:#9ca3af
+    style F fill:#059669
 ```
 
-**This Month's Momentum:**
+**January 2026 Momentum:**
 
-- 📈 **Rising:** RAG Systems (+450%), Autonomous Agents (+320%), MoE Models (+280%)
-- 📉 **Cooling:** Basic Prompting (-60%), Small Models (-40%)
-- 🔮 **Next Wave:** Self-improving models, Multimodal reasoning, Edge deployment
-- **Current Hot Topics:** 🔥 Long Context (>1M tokens) | 🔥 Reasoning without CoT | 🔥 Efficient Fine-tuning
+- 📈 **Rising:** Agentic AI (+520%), Memory Architectures (+480%), MoE & Sparse Models (+380%), Recursive Language Models (+350%)
+- 📉 **Cooling:** Vanilla RAG (-45%), Basic Prompting (-70%), Static Context Windows (-55%)
+- 🔮 **Next Wave:** World Models, Self-play Training, Neuromorphic Chips, Context Folding
+- **Current Hot Topics:** 🔥 Titans & Test-Time Memory | 🔥 DeepSeek Reasoning | 🔥 Autonomous Code Agents | 🔥 200K+ Token Windows
 
 </div>
 
@@ -652,7 +663,7 @@ graph TD
 
 Made with ❤️ for the AI Research Community
 
-_Last updated: December 30, 2025, 9:00 PM IST_
+_Last updated: January 2, 2026, 7:00 PM IST_
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/puneet_chandna_?style=social)](https://x.com/puneet_chandna_)
 [![GitHub followers](https://img.shields.io/github/followers/puneet-chandna?style=social)](https://github.com/puneet-chandna)
