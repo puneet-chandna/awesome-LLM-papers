@@ -1,5 +1,4 @@
-
-# 🤝 Contributing to Daily LLM Papers
+# 🤝 Contributing to Awesome LLM Papers
 
 Thank you for helping us build the best LLM research hub! ❤️
 
@@ -8,9 +7,12 @@ Thank you for helping us build the best LLM research hub! ❤️
 **Fastest way to contribute:**
 👉 [**Submit a paper using our form**](https://github.com/puneet-chandna/awesome-LLM-papers/issues/new?template=new-paper.yml) - No coding required!
 
+---
+
 ## 📄 Paper Submission Guidelines
 
 ### ✅ We Accept Papers That:
+
 - **Break new ground** (not incremental improvements)
 - **Have practical impact** (can be applied/tested)
 - **Include code or demos** (reproducible)
@@ -18,67 +20,98 @@ Thank you for helping us build the best LLM research hub! ❤️
 - **Are recent** (typically < 3 months old, unless foundational)
 
 ### ❌ We Don't Accept:
+
 - Marketing disguised as research
 - Papers without clear methodology
 - Incremental improvements (< 5% gain)
 - Closed-source with no reproducibility
 - Pre-prints without peer review (unless exceptional)
 
+---
+
 ## 📊 What Makes a Good Submission?
 
-### Perfect Example:
+### ✅ Perfect Example:
+
 ```markdown
 **Paper:** Attention is All You Need
 **Link:** https://arxiv.org/abs/1706.03762
 **Why it matters:** Introduced transformers, replacing RNNs entirely and enabling all modern LLMs
 **Key innovation:** Self-attention mechanism allowing parallelization
 **Resources:** Code (✓) Demo (✓) Blog post (✓)
-Poor Example:
-Markdown
+```
 
+### ❌ Poor Example:
+
+```markdown
 **Paper:** Yet Another BERT Fine-tuning Paper
 **Why it matters:** 0.5% improvement on GLUE benchmark
-❌ Too incremental
-🎯 Submission Process
-Option 1: GitHub Issue (Recommended)
-Open a new issue
-Fill out the template
-Submit!
-Option 2: Pull Request (For multiple papers)
-Fork the repository
-Add paper to README.md following the format
-Submit PR with title: [Paper] Name of the paper
-📝 Paper Format Template
-Markdown
+```
 
+_Too incremental - we prioritize breakthrough research._
+
+---
+
+## 🎯 Submission Process
+
+### Option 1: GitHub Issue (Recommended)
+
+1. [Open a new issue](https://github.com/puneet-chandna/awesome-LLM-papers/issues/new?template=new-paper.yml)
+2. Fill out the template
+3. Submit!
+
+### Option 2: Pull Request (For multiple papers)
+
+1. Fork the repository
+2. Add paper to README.md following the format
+3. Submit PR with title: `[Paper] Name of the paper`
+
+---
+
+## 📝 Paper Format Template
+
+```markdown
 ### 🏆 **[Paper Title](arxiv-link)**
 
-**Authors:** *First Last et al.* • Institution
+**Authors:** _First Last et al._ • Institution
 
 **Why this matters:** Two sentences max explaining real-world impact.
 
 **Key Innovations:**
+
 - 🔸 First key point
 - 🔸 Second key point
 - 🔸 Third key point
 
 **Resources:** [Code](link) | [Demo](link) | [Thread](link)
+```
 
-**Tags:** `category` `impact-level`
-🏆 Recognition
+---
+
+## 🏆 Recognition
+
 Contributors get:
 
-✨ Name in our monthly contributors section
-🎖️ Special badge for 5+ accepted papers
-🌟 Shoutout in our newsletter
-💬 Moderator role in Discord (10+ papers)
-💬 Questions?
-Discord: Join our community
-Email: puneetchandna7@gmail.com
-Twitter: @puneet_chandna_
-📜 Code of Conduct
-Be respectful and constructive
-No spam or self-promotion without value
-Quality > Quantity always
-Help others learn
-Thank you for making AI research more accessible! 🚀
+- ✨ Name in our contributors section
+- 🎖️ Special mention for 5+ accepted papers
+- 🌟 Credit in the README
+
+---
+
+## 💬 Questions?
+
+- **Email:** puneetchandna7@gmail.com
+- **Twitter:** [@puneet*chandna*](https://x.com/puneet_chandna_)
+
+---
+
+## 📜 Code of Conduct
+
+- Be respectful and constructive
+- No spam or self-promotion without value
+- Quality > Quantity always
+- Help others learn
+
+---
+
+**Thank you for making AI research more accessible! 🚀**
