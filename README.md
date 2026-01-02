@@ -56,7 +56,7 @@
 
 **Resources:**
 
-- 🔗 [**Paper**](https://arxiv.org/abs/2501.00663)
+- 🔗 [**Paper**](https://arxiv.org/pdf/2501.00663)
 - 📊 [**Google Research**](https://research.google/)
 - 🐦 [**Thread**](https://x.com/behrouz_ali/status/1878859086227255347?s=20)
 
@@ -195,7 +195,7 @@ Introduced RLAIF - training AI systems to be helpful and harmless using AI feedb
 </td>
 <td align="center">
 
-[📄](https://arxiv.org/abs/2212.08073) [💻](https://github.com/anthropics/constitutional-ai) [🎥](https://youtube.com/watch)
+[📄](https://arxiv.org/abs/2212.08073) [🏠](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback)
 
 </td>
 </tr>
@@ -220,7 +220,7 @@ Simple prompting technique that dramatically improves reasoning by asking models
 </td>
 <td align="center">
 
-[📄](https://arxiv.org/abs/2201.11903) [💡](https://github.com/examples) [📊](https://demo.com)
+[📄](https://arxiv.org/abs/2201.11903) [📝](https://www.promptingguide.ai/techniques/cot) [💡](https://learnprompting.org/docs/intermediate/chain_of_thought)
 
 </td>
 </tr>
@@ -228,8 +228,8 @@ Simple prompting technique that dramatically improves reasoning by asking models
 <tr>
 <td>
 
-**[RLHF: Training with Human Feedback](https://arxiv.org/abs/1706.03741)**
-<br>_Christiano et al., 2017_
+**[RLHF: Training with Human Feedback](https://arxiv.org/abs/2203.02155)**
+<br>_Ouyang et al., 2022_
 
 </td>
 <td align="center">
@@ -245,7 +245,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </td>
 <td align="center">
 
-[📄](https://arxiv.org/abs/1706.03741) [💻](https://github.com/openai/lm-human-preferences) [📚](https://huggingface.co/blog/rlhf)
+[📄](https://arxiv.org/pdf/2203.02155) [💻](https://github.com/openai/following-instructions-human-feedback) [📚](https://huggingface.co/blog/rlhf)
 
 </td>
 </tr>
