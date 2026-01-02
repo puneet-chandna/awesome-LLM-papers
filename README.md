@@ -264,7 +264,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <tr>
 <td width="50%" valign="top">
 
-### [🏗️ **Model Architectures**](#model-architectures)
+### [🏗️ **Model Architectures**](categories/architectures.md)
 
 > _Transformers, SSMs, MoE, Novel designs_  
 > **📄 10 papers** &nbsp;|&nbsp; 🔥
@@ -272,7 +272,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </td>
 <td width="50%" valign="top">
 
-### [🧮 **Reasoning & Agents**](#reasoning--agents)
+### [🧮 **Reasoning & Agents**](categories/reasoning.md)
 
 > _CoT, Planning, Tool use, Autonomous systems_  
 > **📄 6 papers** &nbsp;|&nbsp; 🔥🔥
@@ -283,7 +283,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [**Efficiency & Scaling**](#efficiency--scaling)
+### ⚡ [**Efficiency & Scaling**](categories/efficiency.md)
 
 > _Quantization, Pruning, Fast inference_  
 > **📄 7 papers** &nbsp;|&nbsp; 🔥
@@ -291,7 +291,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [**Training & Alignment**](#training--alignment)
+### 🎯 [**Training & Alignment**](categories/training.md)
 
 > _RLHF, DPO, Fine-tuning, PEFT methods_  
 > **📄 5 papers** &nbsp;|&nbsp; →
@@ -302,7 +302,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [**Multimodal Models**](#multimodal-models)
+### 🎨 [**Multimodal Models**](categories/multimodal.md)
 
 > _Vision-Language, Audio, Video, Any-to-any_  
 > **📄 8 papers** &nbsp;|&nbsp; 🔥
@@ -310,7 +310,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </td>
 <td width="50%" valign="top">
 
-### 📚 [**RAG & Knowledge**](#rag--knowledge)
+### 📚 [**RAG & Knowledge**](categories/rag.md)
 
 > _Retrieval systems, Long context, Memory_  
 > **📄 8 papers** &nbsp;|&nbsp; 🔥🔥🔥
@@ -321,7 +321,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [**Safety & Security**](#safety--security)
+### 🛡️ [**Safety & Security**](categories/safety.md)
 
 > _Jailbreaks, Alignment, Robustness, Ethics_  
 > **📄 4 papers** &nbsp;|&nbsp; →
@@ -329,7 +329,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [**Analysis & Theory**](#analysis--theory)
+### 🔬 [**Analysis & Theory**](categories/analysis.md)
 
 > _Interpretability, Mechanistic, Evaluations_  
 > **📄 3 papers** &nbsp;|&nbsp; →
