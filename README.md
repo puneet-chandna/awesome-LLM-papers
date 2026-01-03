@@ -128,7 +128,7 @@ _"Hot research areas this month - Where the field is moving"_
 <tr>
 <td>
 
-**[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
+**[Attention Is All You Need](summaries/Attention%20Is%20All%20You%20Need%20.md)**
 <br>_Vaswani et al., 2017_
 
 </td>
@@ -354,7 +354,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 
 #### Foundational Papers:
 
-- 🏆 **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** - The paper that started everything
+- 🏆 **[Attention Is All You Need](summaries/Attention%20Is%20All%20You%20Need%20.md)** - The paper that started everything
 - **[BERT: Bidirectional Transformers](https://arxiv.org/abs/1810.04805)** - Revolutionized NLP pre-training
 - **[GPT-3: Few-Shot Learning](https://arxiv.org/abs/2005.14165)** - Proved scale leads to emergence
 
