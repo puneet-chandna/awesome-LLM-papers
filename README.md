@@ -153,7 +153,7 @@ Created the Transformer architecture that powers all modern LLMs. Replaced RNNs 
 <tr>
 <td>
 
-**[GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)**
+**[GPT-3: Language Models are Few-Shot Learners](summaries/GPT-3%20Language%20Models%20are%20Few-Shot%20Learners.md)**
 <br>_Brown et al., 2020_
 
 </td>
@@ -178,7 +178,7 @@ Proved that scale leads to emergent abilities. In-context learning without fine-
 <tr>
 <td>
 
-**[Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)**
+**[Constitutional AI: Harmlessness from AI Feedback](summaries/Constitutional%20AI%20Harmlessness%20from%20AI%20Feedback.md)**
 <br>_Bai et al., 2022_
 
 </td>
@@ -203,7 +203,7 @@ Introduced RLAIF - training AI systems to be helpful and harmless using AI feedb
 <tr>
 <td>
 
-**[Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903)**
+**[Chain-of-Thought Prompting](summaries/Chain-of-Thought%20Prompting.md)**
 <br>_Wei et al., 2022_
 
 </td>
@@ -228,7 +228,7 @@ Simple prompting technique that dramatically improves reasoning by asking models
 <tr>
 <td>
 
-**[RLHF: Training with Human Feedback](https://arxiv.org/abs/2203.02155)**
+**[RLHF: Training with Human Feedback](summaries/RLHF%20Training%20with%20Human%20Feedback.md)**
 <br>_Ouyang et al., 2022_
 
 </td>
