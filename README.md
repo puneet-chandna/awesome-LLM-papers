@@ -34,7 +34,7 @@
 
 ## 🔥 Today's Pick
 
-### 🏆 **[Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)**
+### 🏆 **[Titans: Learning to Memorize at Test Time](summaries/Titans%20Learning%20to%20Memorize%20at%20Test%20Time.md)**
 
 <table>
 <tr>
