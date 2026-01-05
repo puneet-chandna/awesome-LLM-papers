@@ -8,7 +8,7 @@
 
 **Complete chronological listing of all LLM papers in this repository**
 
-_Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
+_Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)_
 
 [2025](#-2025) • [2024](#-2024) • [2023](#-2023) • [2022](#-2022) • [2021](#-2021) • [2020](#-2020) • [2019](#-2019) • [2018](#-2018) • [2017](#-2017)
 
@@ -20,7 +20,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 
-**Salesforce AI** • `Reasoning` `Self-Improvement` • ⭐ **HALL OF FAME**
+**Salesforce AI** • `Reasoning` `Self-Improvement` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Model autonomously generates reasoning problems and improves through self-play without human data
 
@@ -62,13 +62,13 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [DeepSeek-R1: Incentivizing Reasoning Capability via RL](https://arxiv.org/abs/2501.12948)
 
-**DeepSeek AI** • `Reasoning` `RL` • ⭐ **HALL OF FAME**
+**DeepSeek AI** • `Reasoning` `RL` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Rewards correct reasoning steps, not just final answers, boosting problem-solving
 
 ### [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 
-**Google Research** • `Architecture` `Memory` • ⭐ **HALL OF FAME**
+**Google Research** • `Architecture` `Memory` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Revolutionary memory architecture handling 2M+ tokens with persistent test-time memory
 
@@ -114,7 +114,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 
-**Meta AI** • `Architecture` `Open Models` • ⭐ **HALL OF FAME**
+**Meta AI** • `Architecture` `Open Models` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > State-of-the-art open models rivaling closed-source systems
 
@@ -162,7 +162,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 
-**OpenAI** • `Multimodal` `Intelligence` • ⭐ **HALL OF FAME**
+**OpenAI** • `Multimodal` `Intelligence` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Large multimodal model with human-level performance on professional exams
 
@@ -180,7 +180,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 
-**AI2** • `Architecture` `Open Science` • ⭐ **HALL OF FAME**
+**AI2** • `Architecture` `Open Science` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Fully open with complete training data, code, and tools
 
@@ -226,13 +226,13 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Mamba: Linear-Time Sequence Modeling](https://arxiv.org/abs/2312.00752)
 
-**CMU, Princeton** • `Architecture` `SSM` • ⭐ **HALL OF FAME**
+**CMU, Princeton** • `Architecture` `SSM` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Selective state space model achieving Transformer quality with linear complexity
 
 ### [Mistral 7B](https://arxiv.org/abs/2310.06825)
 
-**Mistral AI** • `Architecture` `Efficiency` • ⭐ **HALL OF FAME**
+**Mistral AI** • `Architecture` `Efficiency` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Outperforms Llama 13B using Grouped-Query and Sliding Window Attention
 
@@ -298,7 +298,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
 
-**Meta** • `Architecture` `Open Models` • ⭐ **HALL OF FAME**
+**Meta** • `Architecture` `Open Models` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Open models with commercial license and comprehensive safety
 
@@ -388,13 +388,13 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 
-**OpenAI** • `Multimodal` • ⭐ **HALL OF FAME**
+**OpenAI** • `Multimodal` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Multimodal model with human-level performance on professional exams
 
 ### [LLaMA: Open and Efficient Foundation Models](https://arxiv.org/abs/2302.13971)
 
-**Meta** • `Architecture` `Open Source` • ⭐ **HALL OF FAME**
+**Meta** • `Architecture` `Open Source` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Democratized access to SOTA LLMs, sparking open-source revolution
 
@@ -416,7 +416,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 
-**Anthropic** • `Safety` `Alignment` • ⭐ **HALL OF FAME**
+**Anthropic** • `Safety` `Alignment` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > RLAIF using AI-generated feedback based on constitutional principles
 
@@ -434,7 +434,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [BLOOM: 176B-Parameter Open-Access Multilingual Model](https://arxiv.org/abs/2211.05100)
 
-**BigScience Workshop** • `Architecture` `Open Science` • ⭐ **HALL OF FAME**
+**BigScience Workshop** • `Architecture` `Open Science` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Collaborative effort with 1000+ researchers for open multilingual model
 
@@ -458,7 +458,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
 
-**Google, DeepMind, Stanford, UNC** • `Analysis` `Emergence` • ⭐ **HALL OF FAME**
+**Google, DeepMind, Stanford, UNC** • `Analysis` `Emergence` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Formalized emergent abilities appearing unpredictably at scale
 
@@ -482,7 +482,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 
-**Google** • `Architecture` `Performance` • ⭐ **HALL OF FAME**
+**Google** • `Architecture` `Performance` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > 540B parameters achieving SOTA with breakthrough reasoning capabilities
 
@@ -506,7 +506,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Training Compute-Optimal LLMs (Chinchilla)](https://arxiv.org/abs/2203.15556)
 
-**DeepMind** • `Architecture` `Optimization` • ⭐ **HALL OF FAME**
+**DeepMind** • `Architecture` `Optimization` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Smaller models on more data outperform larger models
 
@@ -518,19 +518,19 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [InstructGPT: Training with Human Feedback](https://arxiv.org/abs/2203.02155)
 
-**OpenAI** • `Training` `Alignment` • ⭐ **HALL OF FAME**
+**OpenAI** • `Training` `Alignment` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Three-step RLHF methodology powering ChatGPT
 
 ### [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903)
 
-**Google** • `Reasoning` `Prompting` • ⭐ **HALL OF FAME**
+**Google** • `Reasoning` `Prompting` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > "Think step-by-step" dramatically improves reasoning without model changes
 
 ### [LaMDA: Language Models for Dialog](https://arxiv.org/abs/2201.08239)
 
-**Google** • `Architecture` `Dialogue` • ⭐ **HALL OF FAME**
+**Google** • `Architecture` `Dialogue` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Pre-trained on dialogue data for open-ended conversations
 
@@ -546,25 +546,25 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Scaling Language Models: Training Gopher](https://arxiv.org/abs/2112.11446)
 
-**DeepMind** • `Architecture` `Scaling` • ⭐ **HALL OF FAME**
+**DeepMind** • `Architecture` `Scaling` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Comprehensive 280B parameter analysis across 152 tasks
 
 ### [Finetuned Language Models are Zero-Shot Learners (FLAN)](https://arxiv.org/abs/2109.01652)
 
-**Google** • `Training` `Instruction` • ⭐ **HALL OF FAME**
+**Google** • `Training` `Instruction` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Instruction tuning improves zero-shot on unseen tasks
 
 ### [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 
-**Stanford** • `Analysis` `Concept` • ⭐ **HALL OF FAME**
+**Stanford** • `Analysis` `Concept` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Coined "Foundation Models" term with comprehensive analysis
 
 ### [Codex: Evaluating LLMs Trained on Code](https://arxiv.org/abs/2107.03374)
 
-**OpenAI** • `Architecture` `Code` • ⭐ **HALL OF FAME**
+**OpenAI** • `Architecture` `Code` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Demonstrated code reasoning abilities, led to GitHub Copilot
 
@@ -576,7 +576,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Switch Transformers: Scaling to Trillion Parameters](https://arxiv.org/abs/2101.03961)
 
-**Google** • `Architecture` `MoE` • ⭐ **HALL OF FAME**
+**Google** • `Architecture` `MoE` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Sparse MoE enabling trillion-parameter models
 
@@ -598,7 +598,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
 
-**OpenAI** • `Architecture` `Emergence` • ⭐ **HALL OF FAME**
+**OpenAI** • `Architecture` `Emergence` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Proved scale unlocks emergent in-context learning abilities
 
@@ -616,7 +616,7 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
-**OpenAI** • `Analysis` `Scaling` • ⭐ **HALL OF FAME**
+**OpenAI** • `Analysis` `Scaling` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Established predictable power-law scaling relationships
 
@@ -638,25 +638,25 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Exploring Transfer Learning with T5](https://arxiv.org/abs/1910.10683)
 
-**Google** • `Architecture` `Framework` • ⭐ **HALL OF FAME**
+**Google** • `Architecture` `Framework` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Unified text-to-text framework for all NLP tasks
 
 ### [ZeRO: Memory Optimizations Toward Trillion Parameters](https://arxiv.org/abs/1910.02054)
 
-**Microsoft** • `Efficiency` `Memory` • ⭐ **HALL OF FAME**
+**Microsoft** • `Efficiency` `Memory` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Partitioning model states enabling trillion-parameter training
 
 ### [Megatron-LM: Training Multi-Billion Parameter Models](https://arxiv.org/abs/1909.08053)
 
-**NVIDIA** • `Architecture` `Engineering` • ⭐ **HALL OF FAME**
+**NVIDIA** • `Architecture` `Engineering` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Tensor and pipeline parallelism for multi-billion parameter models
 
 ### [Language Models are Unsupervised Multitask Learners (GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-**OpenAI** • `Architecture` `Zero-Shot` • ⭐ **HALL OF FAME**
+**OpenAI** • `Architecture` `Zero-Shot` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Demonstrated zero-shot task performance through scaling
 
@@ -684,13 +684,13 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
 
-**Google** • `Architecture` `Understanding` • ⭐ **HALL OF FAME**
+**Google** • `Architecture` `Understanding` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Bidirectional pre-training with MLM revolutionizing NLP understanding
 
 ### [Improving Language Understanding by Generative Pre-Training (GPT-1)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-**OpenAI** • `Architecture` `Pre-training` • ⭐ **HALL OF FAME**
+**OpenAI** • `Architecture` `Pre-training` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Established generative pre-training paradigm for language models
 
@@ -700,13 +700,13 @@ _Sorted from newest to oldest • ⭐ **HALL OF FAME** = Foundational papers_
 
 ### [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-**Google** • `Architecture` `Foundation` • ⭐ **HALL OF FAME**
+**Google** • `Architecture` `Foundation` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Created Transformer architecture, foundation of all modern LLMs
 
 ### [Deep RL from Human Preferences](https://arxiv.org/abs/1706.03741)
 
-**OpenAI, DeepMind** • `Training` `Alignment` • ⭐ **HALL OF FAME**
+**OpenAI, DeepMind** • `Training` `Alignment` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Foundational RLHF framework learning from human preferences
 
