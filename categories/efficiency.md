@@ -116,9 +116,9 @@ _From quantization breakthroughs to attention optimization, these papers enable 
 
 > Revealed that **up to half of the layers in popular LLMs can be removed** with minimal impact on performance across various benchmarks. This surprising finding suggests significant redundancy in current model architectures and opens new avenues for model compression. The paper provides practical guidance for layer pruning strategies that maintain model quality.
 
-### 📄 🆕 [HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference](https://ieeexplore.ieee.org/document/10540285)
+### 📄 🆕 [HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference](https://dl.acm.org/doi/epdf/10.1145/3744244)
 
-**Authors:** TODAES 2025  
+**Authors:** Wenqian Zhao  
 **Contribution:** `⚙️ Hardware-Specific Pruning`
 
 > Moves beyond generic pruning by **incorporating hardware-specific constraints directly into the pruning process**. HAPE considers memory bandwidth, compute capabilities, and power constraints of target devices (phones, laptops, edge devices) when determining which weights to prune. This hardware-aware approach enables massive models to run efficiently on consumer devices with minimal latency and energy consumption.

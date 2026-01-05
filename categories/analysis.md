@@ -40,7 +40,7 @@ _Understanding the inner workings of LLMs—from circuit-level analysis to emerg
 
 > Identified **induction heads**—a specific circuit pattern responsible for in-context learning in Transformers. This paper demonstrated that a simple two-attention-head circuit can implement pattern matching and copying, explaining a core mechanism behind few-shot learning. It provided concrete evidence that complex behaviors emerge from identifiable, interpretable circuits.
 
-### 📄 [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://arxiv.org/abs/2406.04093) 🆕
+### 📄 [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/) 🆕
 
 **Authors:** Templeton et al. (Anthropic)  
 **Contribution:** `🔎 Feature Extraction`

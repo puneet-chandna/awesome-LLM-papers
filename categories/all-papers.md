@@ -42,19 +42,19 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Reveals that reasoning models "give up" on hard tasks and reasoning is often an illusion
 
-### [HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference](https://ieeexplore.ieee.org/document/10540285)
+### [HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference](https://dl.acm.org/doi/epdf/10.1145/3744244)
 
 **TODAES** • `Efficiency` `Pruning`
 
 > Hardware-specific pruning considering device constraints for efficient edge deployment
 
-### [Janus-Pro: Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2501.02031)
+### [Janus-Pro: Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2501.17811)
 
 **DeepSeek AI** • `Multimodal` `Architecture`
 
 > Decouples visual encoding for understanding vs generation, excelling at both without trade-offs
 
-### [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2501.04682)
+### [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)
 
 **DeepSeek AI** • `Architecture` `Stability`
 
@@ -106,7 +106,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Combines local attention with compressive memory for infinite-length processing
 
-### [Many-Shot Jailbreaking](https://arxiv.org/abs/2404.02151)
+### [Many-Shot Jailbreaking](https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf)
 
 **Anthropic** • `Safety` `Attacks`
 
@@ -184,7 +184,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Fully open with complete training data, code, and tools
 
-### [LLaVA-NeXT: Improved reasoning, OCR, andworld knowledge](https://arxiv.org/abs/2401.08541)
+### [LLaVA-NeXT: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
 
 **ByteDance, UW-Madison** • `Multimodal` `Vision-Language`
 
@@ -208,11 +208,11 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Builds hierarchical tree of summaries for multi-level retrieval
 
-### [DeepSeek-V3: Ultra-Scale MoE](https://arxiv.org/abs/2412.19437)
+### [DeepSeek-V3.2: Reasoning Rival](https://arxiv.org/pdf/2512.02556)
 
-**DeepSeek AI** • `Architecture` `MoE`
+**DeepSeek AI** • `Reasoning` `Math`
 
-> 671B total parameters rivaling GPT-4 at fraction of cost
+> Open-source reasoning model rivaling GPT-5 in mathematics and logic at 1/10th the cost
 
 ---
 
@@ -380,7 +380,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Agents learn from mistakes through verbose self-reflection
 
-### [Scaling Monosemanticity: Extracting Interpretable Features](https://arxiv.org/abs/2406.04093)
+### [Scaling Monosemanticity: Extracting Interpretable Features](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 
 **Anthropic** • `Analysis` `Interpretability`
 

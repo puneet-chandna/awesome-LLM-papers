@@ -130,14 +130,14 @@ _From the original Transformer to State Space Models and Mixture of Experts, the
 
 > Combines the **efficient parallelizable training of Transformers with the efficient inference of RNNs**. RWKV uses a linear attention mechanism that can be formulated as either an RNN (for inference) or a Transformer (for training). Achieves competitive performance with Transformers while enabling constant memory and linear time inference.
 
-### 📄 [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+### 📄 [DeepSeek-V3.2: Reasoning Rival](https://arxiv.org/pdf/2512.02556)
 
 **Authors:** DeepSeek AI  
-**Contribution:** `🧩 Ultra-Scale MoE`
+**Contribution:** `� Reasoning Excellence`
 
-> 🆕 Popularized **Multi-Head Latent Attention (MLA)** and ultra-large scale Mixture-of-Experts training (671B total parameters, 37B active per token) that rivals top closed-source models like GPT-4 at a fraction of the training cost. Demonstrates that open-source models can match or exceed proprietary systems through innovative architecture design and efficient training strategies.
+> 🆕 Open-source reasoning model rivaling GPT-5 in mathematics and logic at 1/10th the cost. Demonstrates breakthrough reasoning capabilities through innovative training approaches.
 
-### 📄 [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2501.04682)
+### 📄 [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)
 
 **Authors:** DeepSeek AI  
 **Contribution:** `📐 Stable Residuals`

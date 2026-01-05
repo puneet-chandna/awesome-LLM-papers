@@ -109,7 +109,7 @@ _From foundational vision-language models to cutting-edge video understanding an
 
 > Introduced **Gemini 1.5**, featuring a mixture-of-experts architecture capable of processing up to 10 million tokens of multimodal context. This unprecedented context length enables entirely new capabilities: analyzing hour-long videos, entire codebases, or hundreds of pages of documents in a single prompt. The model demonstrates near-perfect recall across its massive context window while maintaining strong performance on standard benchmarks.
 
-### 📄 [LLaVA-NeXT: Improved reasoning, OCR, and world knowledge](https://arxiv.org/abs/2401.08541) 🆕
+### 📄 [LLaVA-NeXT: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/) 🆕
 
 **Authors:** Liu et al. (ByteDance, University of Wisconsin-Madison)  
 **Contribution:** `📈 Enhanced Visual Reasoning`
@@ -137,7 +137,7 @@ _From foundational vision-language models to cutting-edge video understanding an
 
 > A crucial "science of AI" paper that rigorously **ablates architectural choices** for multimodal models—image encoder resolution, token counts, connector types, and pre-training strategies. MM1 provides a recipe book for building SOTA multimodal models, demonstrating what works and what doesn't through systematic experimentation. This research accelerated the field by de-risking design decisions for future models.
 
-### 📄 [Janus-Pro: Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2501.02031) 🆕
+### 📄 [Janus-Pro: Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2501.17811) 🆕
 
 **Authors:** DeepSeek AI (Jan 2025)  
 **Contribution:** `🎭 Decoupled Pathways`
