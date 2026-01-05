@@ -184,6 +184,18 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Fully open with complete training data, code, and tools
 
+### [DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://arxiv.org/abs/2402.03300)
+
+**DeepSeek AI** • `Reasoning` `Math` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+> First open model approaching GPT-4 on MATH benchmark (51.7%), using GRPO for mathematical reasoning
+
+### [Scaling and Evaluating Sparse Autoencoders](https://arxiv.org/abs/2406.04093)
+
+**OpenAI** • `Analysis` `Interpretability` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+> k-sparse autoencoders with clean scaling laws; 16M latent autoencoder trained on GPT-4 for 40B tokens
+
 ### [LLaVA-NeXT: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
 
 **ByteDance, UW-Madison** • `Multimodal` `Vision-Language`

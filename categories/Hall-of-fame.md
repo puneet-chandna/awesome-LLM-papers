@@ -270,6 +270,20 @@ _Each entry represents a significant milestone, from foundational architectures 
 
 > Released a new family of **state-of-the-art open models**, including 8B and 70B parameter versions, that set a new standard for performance at their scale. Trained on a massive, high-quality dataset, Llama 3 demonstrated significant improvements in reasoning, code generation, and instruction following, rivaling many closed-source models.
 
+### 📄 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+
+**Authors:** DeepSeek AI  
+**Contribution:** `🧮 Mathematical Reasoning`
+
+> Introduced **DeepSeekMath 7B**, the first open model to approach GPT-4 level on the competition-level MATH benchmark (51.7%). More importantly, this paper introduced **Group Relative Policy Optimization (GRPO)**—a more memory-efficient variant of PPO that eliminates the need for a separate value model. GRPO became hugely influential: it was later adopted by DeepSeek-R1 and many other reasoning models, establishing itself as the go-to RL algorithm for mathematical reasoning. With 3,700+ citations in under a year, this paper is foundational for the reasoning revolution in LLMs.
+
+### 📄 [Scaling and Evaluating Sparse Autoencoders](https://arxiv.org/abs/2406.04093)
+
+**Authors:** Leo Gao, Tom Dupré la Tour, Henk Tillman et al. (OpenAI)  
+**Contribution:** `🔬 Interpretability at Scale`
+
+> Proposed **k-sparse autoencoders** for extracting interpretable features from LLMs with clean scaling laws. Trained a 16 million latent autoencoder on GPT-4 activations for 40 billion tokens—the largest interpretability experiment ever. Introduced new metrics for evaluating feature quality and released training code + autoencoders for open-source models. This work provides the methodological foundation for understanding what the largest models learn.
+
 ---
 
 ## 🔮 2025: Self-Improvement
