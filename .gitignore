@@ -2,3 +2,4 @@
 .vscode
 .kiro
 .venv
+.__pycache__
