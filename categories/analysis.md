@@ -111,7 +111,7 @@ _Understanding the inner workings of LLMs—from circuit-level analysis to emerg
 
 > Introduced **MT-Bench** and the **Chatbot Arena** methodology for evaluating conversational AI. This work demonstrated that strong LLMs can serve as reliable judges of other models' outputs, correlating well with human preferences. The Chatbot Arena's crowdsourced pairwise comparisons created a dynamic leaderboard that became the gold standard for comparing chat models.
 
-### 📄 [The Illusion of Thinking: Understanding Strengths and Limitations of Reasoning Models](https://arxiv.org/abs/2506.xxxxx) 🆕
+### 📄 [The Illusion of Thinking: Understanding Strengths and Limitations of Reasoning Models](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) 🆕
 
 **Authors:** Shojaee et al. (Apple Machine Learning Research, June 2025)  
 **Contribution:** `🔬 Reasoning Analysis`

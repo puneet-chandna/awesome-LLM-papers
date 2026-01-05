@@ -36,7 +36,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Achieves 97% OCR accuracy at 10x compression, processing 200K+ pages/day on single GPU
 
-### [The Illusion of Thinking: Understanding Strengths and Limitations of Reasoning Models](https://arxiv.org/abs/2506.xxxxx)
+### [The Illusion of Thinking: Understanding Strengths and Limitations of Reasoning Models](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 
 **Apple ML Research** • `Analysis` `Reasoning`
 
