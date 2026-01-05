@@ -23,8 +23,8 @@
 
 ---
 
-<img src="https://img.shields.io/badge/📄%20Papers%20Curated-123-blue?style=flat-square&labelColor=000000" alt="Papers">
-<img src="https://img.shields.io/badge/🆕%20Added%20This%20Week-8-green?style=flat-square&labelColor=000000" alt="New Papers">
+<img src="https://img.shields.io/badge/📄%20Papers%20Curated-140+-blue?style=flat-square&labelColor=000000" alt="Papers">
+<img src="https://img.shields.io/badge/🆕%20Added%20This%20Week-25-green?style=flat-square&labelColor=000000" alt="New Papers">
 <img src="https://img.shields.io/badge/👥%20Contributor-1-orange?style=flat-square&labelColor=000000" alt="Contributors">
 <img src="https://img.shields.io/badge/⭐%20Community%20Rated-10+-red?style=flat-square&labelColor=000000" alt="Ratings">
 
@@ -257,7 +257,11 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 
 ---
 
-## 📚 Browse by Category
+## 🗂️ Browse by Category
+
+**Looking for something specific?** Jump directly to papers in these areas:
+
+**📋 [All Papers (Chronological)](categories/all-papers.md)** • Complete index of all 141 papers from 2017-2025
 
 <div align="center">
 <table>
@@ -267,7 +271,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### [🏗️ **Model Architectures**](categories/architectures.md)
 
 > _Transformers, SSMs, MoE, Novel designs_  
-> **📄 10 papers** &nbsp;|&nbsp; 🔥
+> **📄 16 papers** &nbsp;|&nbsp; 🔥
 
 </td>
 <td width="50%" valign="top">
@@ -286,7 +290,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### ⚡ [**Efficiency & Scaling**](categories/efficiency.md)
 
 > _Quantization, Pruning, Fast inference_  
-> **📄 7 papers** &nbsp;|&nbsp; 🔥
+> **📄 13 papers** &nbsp;|&nbsp; 🔥
 
 </td>
 <td width="50%" valign="top">
@@ -294,7 +298,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### 🎯 [**Training & Alignment**](categories/training.md)
 
 > _RLHF, DPO, Fine-tuning, PEFT methods_  
-> **📄 5 papers** &nbsp;|&nbsp; →
+> **📄 16 papers** &nbsp;|&nbsp; →
 
 </td>
 </tr>
@@ -305,7 +309,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### 🎨 [**Multimodal Models**](categories/multimodal.md)
 
 > _Vision-Language, Audio, Video, Any-to-any_  
-> **📄 8 papers** &nbsp;|&nbsp; 🔥
+> **📄 18 papers** &nbsp;|&nbsp; 🔥
 
 </td>
 <td width="50%" valign="top">
@@ -313,7 +317,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### 📚 [**RAG & Knowledge**](categories/rag.md)
 
 > _Retrieval systems, Long context, Memory_  
-> **📄 8 papers** &nbsp;|&nbsp; 🔥🔥🔥
+> **📄 14 papers** &nbsp;|&nbsp; 🔥🔥🔥
 
 </td>
 </tr>
@@ -324,7 +328,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### 🛡️ [**Safety & Security**](categories/safety.md)
 
 > _Jailbreaks, Alignment, Robustness, Ethics_  
-> **📄 4 papers** &nbsp;|&nbsp; →
+> **📄 12 papers** &nbsp;|&nbsp; →
 
 </td>
 <td width="50%" valign="top">
@@ -332,7 +336,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### 🔬 [**Analysis & Theory**](categories/analysis.md)
 
 > _Interpretability, Mechanistic, Evaluations_  
-> **📄 3 papers** &nbsp;|&nbsp; →
+> **📄 11 papers** &nbsp;|&nbsp; →
 
 </td>
 </tr>

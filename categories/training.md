@@ -3,14 +3,14 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/Papers-15+-blue.svg)](https://github.com)
+[![Papers](https://img.shields.io/badge/Papers-16+-blue.svg)](https://github.com)
 [![Years](https://img.shields.io/badge/Years-2017--2025-green.svg)](https://github.com)
 [![License: CC0](https://img.shields.io/badge/License-CC0-yellow.svg)](https://opensource.org/licenses/CC0-1.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ### A curated collection of papers on training methodologies, alignment techniques, and fine-tuning strategies
 
-*From RLHF to parameter-efficient methods, these papers define how we train and align modern language models.*
+_From RLHF to parameter-efficient methods, these papers define how we train and align modern language models._
 
 </div>
 
@@ -29,6 +29,7 @@
 ## 🎯 RLHF & Alignment
 
 ### 📄 [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741)
+
 **Authors:** Christiano et al. (OpenAI, DeepMind)  
 **Contribution:** `🏗️ Foundation`
 
@@ -37,6 +38,7 @@
 ---
 
 ### 📄 [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
+
 **Authors:** Ouyang et al. (OpenAI)  
 **Contribution:** `🧑‍🏫 Instruction Following`
 
@@ -45,6 +47,7 @@
 ---
 
 ### 📄 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model (DPO)](https://arxiv.org/abs/2305.18290)
+
 **Authors:** Rafailov et al. (Stanford)  
 **Contribution:** `⚡ Simplified Alignment`
 
@@ -53,6 +56,7 @@
 ---
 
 ### 📄 [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
+
 **Authors:** Bai et al. (Anthropic)  
 **Contribution:** `🛡️ Scalable Safety`
 
@@ -63,6 +67,7 @@
 ## 🔧 Parameter-Efficient Fine-Tuning (PEFT)
 
 ### 📄 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+
 **Authors:** Hu et al. (Microsoft)  
 **Contribution:** `💡 Efficient Adaptation`
 
@@ -71,6 +76,7 @@
 ---
 
 ### 📄 [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
+
 **Authors:** Li & Liang (Stanford)  
 **Contribution:** `🎛️ Soft Prompts`
 
@@ -79,6 +85,7 @@
 ---
 
 ### 📄 [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+
 **Authors:** Dettmers et al. (University of Washington)  
 **Contribution:** `🗜️ Memory Efficiency`
 
@@ -89,6 +96,7 @@
 ## 📚 Instruction Tuning
 
 ### 📄 [Finetuned Language Models are Zero-Shot Learners (FLAN)](https://arxiv.org/abs/2109.01652)
+
 **Authors:** Wei et al. (Google)  
 **Contribution:** `🎯 Task Generalization`
 
@@ -97,6 +105,7 @@
 ---
 
 ### 📄 [Scaling Instruction-Finetuned Language Models (Flan-T5/PaLM)](https://arxiv.org/abs/2210.11416)
+
 **Authors:** Chung et al. (Google)  
 **Contribution:** `📈 Scaling Instructions`
 
@@ -105,6 +114,7 @@
 ---
 
 ### 📄 [Stanford Alpaca: An Instruction-following LLaMA Model](https://github.com/tatsu-lab/stanford_alpaca)
+
 **Authors:** Taori et al. (Stanford)  
 **Contribution:** `🦙 Accessible Fine-tuning`
 
@@ -113,6 +123,7 @@
 ---
 
 ### 📄 [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560)
+
 **Authors:** Wang et al. (University of Washington)  
 **Contribution:** `🔄 Self-Generated Data`
 
@@ -123,6 +134,7 @@
 ## 🔄 Self-Improvement
 
 ### 📄 [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models (SPIN)](https://arxiv.org/abs/2401.01335)
+
 **Authors:** Chen et al. (UCLA)  
 **Contribution:** `♾️ Self-Play`
 
@@ -131,6 +143,7 @@
 ---
 
 ### 📄 [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
+
 **Authors:** Yuan et al. (Meta AI)  
 **Contribution:** `🎯 Self-Reward`
 
@@ -139,6 +152,7 @@
 ---
 
 ### 📄 [Direct Language Model Alignment from Online AI Feedback (OAIF)](https://arxiv.org/abs/2402.04792)
+
 **Authors:** Guo et al. (Google DeepMind)  
 **Contribution:** `🔄 Online Learning`
 
@@ -149,6 +163,7 @@
 ## 🆕 Recent Breakthroughs
 
 ### 📄 🆕 [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/abs/2403.07691)
+
 **Authors:** Hong et al. (KAIST)  
 **Contribution:** `🎯 Simplified Training`
 
@@ -157,10 +172,18 @@
 ---
 
 ### 📄 🆕 [KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306)
+
 **Authors:** Ethayarajh et al. (Stanford, Contextual AI)  
 **Contribution:** `📊 Human-Aligned Loss`
 
 > Introduced **Kahneman-Tversky Optimization (KTO)**, which aligns LLMs using only binary feedback (good/bad) rather than pairwise preferences. Based on prospect theory from behavioral economics, KTO models how humans actually perceive gains and losses. This approach is more practical since binary feedback is easier to collect than preference pairs, while achieving comparable results to DPO.
+
+### 📄 🆕 [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2405.14734)
+
+**Authors:** Meng et al. (Princeton University)  
+**Contribution:** `⚡ Reference-Free Alignment`
+
+> A successor to DPO that removes the need for a **reference model** during training, making alignment significantly more memory-efficient and stable. SimPO uses length-normalized rewards and a target reward margin to directly optimize policy models on preference data. This simpler approach became the default fine-tuning method for many open-source models (like Llama 3 variants) due to its superior efficiency and comparable or better performance than DPO.
 
 ---
 

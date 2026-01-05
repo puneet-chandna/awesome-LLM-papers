@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/Papers-40+-blue.svg)](https://github.com)
+[![Papers](https://img.shields.io/badge/Papers-41+-blue.svg)](https://github.com)
 [![Years](https://img.shields.io/badge/Years-2017--2025-green.svg)](https://github.com)
 [![License: CC0](https://img.shields.io/badge/License-CC0-yellow.svg)](https://opensource.org/licenses/CC0-1.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -287,6 +287,13 @@ _Each entry represents a significant milestone, from foundational architectures 
 **Contribution:** `♾️ Self-Improvement`
 
 > A paradigm shift in training that moves beyond human data. This paper introduces a method where a model can **autonomously generate its own reasoning problems**, attempt to solve them, and use the verifiable outcomes to improve itself through reinforcement learning. This self-play loop marks a key step towards self-improving, data-independent AI systems that can continuously enhance their own capabilities.
+
+### 📄 [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663)
+
+**Authors:** Ghorbani, Behrouz, Zandieh, Karbasi, Mirrokni, Farajtabar (Google Research)  
+**Contribution:** `🧠 Test-Time Memory`
+
+> Introduced a revolutionary **memory-augmented architecture** that fundamentally reimagines how models handle long-range dependencies. Unlike traditional approaches that struggle with context limits, Titans learns to memorize and retrieve information dynamically at test time through a neural long-term memory module. This breakthrough enables handling context lengths beyond 2M tokens while maintaining precise recall, representing a paradigm shift from mere attention mechanisms to true persistent memory systems that can adapt to each input.
 
 ---
 
