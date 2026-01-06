@@ -28,7 +28,7 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 
 ## 🎯 RLHF & Alignment
 
-### 📄 [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741)
+### 📄 [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Christiano et al. (OpenAI, DeepMind)  
 **Contribution:** `🏗️ Foundation`
@@ -37,7 +37,7 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 
 ---
 
-### 📄 [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
+### 📄 [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Ouyang et al. (OpenAI)  
 **Contribution:** `🧑‍🏫 Instruction Following`
@@ -46,7 +46,7 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 
 ---
 
-### 📄 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model (DPO)](https://arxiv.org/abs/2305.18290)
+### 📄 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model (DPO)](https://arxiv.org/abs/2305.18290) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Rafailov et al. (Stanford)  
 **Contribution:** `⚡ Simplified Alignment`
@@ -55,7 +55,7 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 
 ---
 
-### 📄 [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
+### 📄 [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Bai et al. (Anthropic)  
 **Contribution:** `🛡️ Scalable Safety`
@@ -66,7 +66,7 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 
 ## 🔧 Parameter-Efficient Fine-Tuning (PEFT)
 
-### 📄 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+### 📄 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Hu et al. (Microsoft)  
 **Contribution:** `💡 Efficient Adaptation`
@@ -95,7 +95,7 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 
 ## 📚 Instruction Tuning
 
-### 📄 [Finetuned Language Models are Zero-Shot Learners (FLAN)](https://arxiv.org/abs/2109.01652)
+### 📄 [Finetuned Language Models are Zero-Shot Learners (FLAN)](https://arxiv.org/abs/2109.01652) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Wei et al. (Google)  
 **Contribution:** `🎯 Task Generalization`

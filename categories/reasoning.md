@@ -10,7 +10,7 @@
 
 ### A curated collection of papers on reasoning techniques and autonomous AI agents
 
-*From prompting strategies that unlock step-by-step thinking to systems that can plan, use tools, and act autonomously.*
+_From prompting strategies that unlock step-by-step thinking to systems that can plan, use tools, and act autonomously._
 
 </div>
 
@@ -26,7 +26,8 @@
 
 ## 💭 Chain-of-Thought Reasoning
 
-### 📄 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+### 📄 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
 **Authors:** Wei et al. (Google)  
 **Contribution:** `🧮 Reasoning`
 
@@ -35,6 +36,7 @@
 ---
 
 ### 📄 [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+
 **Authors:** Yao et al. (Princeton, Google DeepMind)  
 **Contribution:** `🌳 Structured Reasoning`
 
@@ -43,6 +45,7 @@
 ---
 
 ### 📄 [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
+
 **Authors:** Besta et al. (ETH Zurich)  
 **Contribution:** `🕸️ Graph Reasoning`
 
@@ -53,6 +56,7 @@
 ## 🤖 Agent Systems
 
 ### 📄 [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+
 **Authors:** Yao et al. (Princeton, Google)  
 **Contribution:** `🔄 Reasoning + Action`
 
@@ -61,6 +65,7 @@
 ---
 
 ### 📄 [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)
+
 **Authors:** Shinn et al. (Northeastern, MIT)  
 **Contribution:** `🪞 Self-Reflection`
 
@@ -69,6 +74,7 @@
 ---
 
 ### 📄 [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+
 **Authors:** Schick et al. (Meta AI)  
 **Contribution:** `🔧 Tool Use`
 
@@ -78,15 +84,24 @@
 
 ## 🆕 Recent Breakthroughs
 
-### 📄 [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+### 📄 [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
 **Authors:** DeepSeek AI  
 **Contribution:** `🧠 Advanced Reasoning`
 
 > Introduced a novel **Reinforcement Learning framework** that directly rewards models for generating correct intermediate reasoning steps, not just the final answer. This incentivizes the model to learn more robust and generalizable reasoning paths, significantly boosting performance on complex logic, math, and coding tasks where the process is as important as the result.
 
+### 📄 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://arxiv.org/abs/2402.03300) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+**Authors:** DeepSeek AI  
+**Contribution:** `🧮 Mathematical Reasoning`
+
+> Introduced **DeepSeekMath 7B**, the first open model to approach GPT-4 on MATH benchmark (51.7%). This paper introduced **Group Relative Policy Optimization (GRPO)**—a memory-efficient RL algorithm that became hugely influential and was adopted by DeepSeek-R1 and other reasoning models.
+
 ---
 
 ### 📄 [OpenAI o1 System Card](https://arxiv.org/abs/2412.16720)
+
 **Authors:** OpenAI  
 **Contribution:** `🎯 Reasoning at Scale`
 

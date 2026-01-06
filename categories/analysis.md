@@ -47,6 +47,13 @@ _Understanding the inner workings of LLMs—from circuit-level analysis to emerg
 
 > Applied **sparse autoencoders at unprecedented scale** to extract millions of interpretable features from a production-grade model (Claude 3 Sonnet). This work demonstrated that even the largest models contain monosemantic features—neurons that respond to specific, human-understandable concepts—providing a scalable path toward understanding what knowledge LLMs encode and how they represent it.
 
+### 📄 [Scaling and Evaluating Sparse Autoencoders](https://arxiv.org/abs/2406.04093) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+**Authors:** Leo Gao, Tom Dupré la Tour et al. (OpenAI)  
+**Contribution:** `🔬 Interpretability at Scale`
+
+> Proposed **k-sparse autoencoders** with clean scaling laws for extracting interpretable features from LLMs. Trained a 16M latent autoencoder on GPT-4 for 40B tokens—the largest interpretability experiment ever. Introduced new metrics for feature quality and released training code for open-source models.
+
 ### 📄 [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405)
 
 **Authors:** Zou et al. (Center for AI Safety)  
@@ -58,7 +65,7 @@ _Understanding the inner workings of LLMs—from circuit-level analysis to emerg
 
 ## 🪄 Emergent Abilities
 
-### 📄 [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+### 📄 [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Wei et al. (Google, DeepMind, Stanford, UNC)  
 **Contribution:** `🪄 Emergence Theory`

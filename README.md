@@ -18,6 +18,7 @@
   <a href="#-this-weeks-essential-reads">This Week</a> •
   <a href="#-must-read-papers-hall-of-fame">Hall of Fame</a> •
   <a href="#-browse-by-category">Categories</a> •
+  <a href="#-research-trends-dashboard">Research Trends</a> •
   <a href="#-contributing">Contribute</a>
 </p>
 

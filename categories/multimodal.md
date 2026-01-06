@@ -27,28 +27,28 @@ _From foundational vision-language models to cutting-edge video understanding an
 
 ## 👁️ Vision-Language Models
 
-### 📄 [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)
+### 📄 [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Radford et al. (OpenAI)  
 **Contribution:** `🔗 Vision-Language Foundation`
 
 > Introduced **Contrastive Language-Image Pre-training (CLIP)**, a revolutionary approach that learns visual concepts from natural language supervision. By training on 400 million image-text pairs from the internet, CLIP learns a joint embedding space where images and text can be directly compared. This enables remarkable zero-shot transfer to downstream tasks—the model can classify images into arbitrary categories just by being given their text descriptions, without any task-specific training.
 
-### 📄 [Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)
+### 📄 [Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Liu et al. (Microsoft Research, University of Wisconsin-Madison)  
 **Contribution:** `🎯 Visual Instruction Following`
 
 > Pioneered **visual instruction tuning** by connecting a vision encoder (CLIP) with a large language model (LLaMA/Vicuna) through a simple projection layer. LLaVA demonstrated that instruction-following capabilities could be extended to the visual domain using GPT-4 generated multimodal instruction data. This efficient approach achieved impressive multimodal chat capabilities, sparking a wave of open-source vision-language models.
 
-### 📄 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+### 📄 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** OpenAI  
 **Contribution:** `🏆 Multimodal Intelligence`
 
 > Introduced **GPT-4V**, the first large-scale commercial model to seamlessly integrate vision and language understanding. GPT-4V demonstrated unprecedented capabilities in visual reasoning, document understanding, and complex image analysis. It can interpret charts, solve visual puzzles, read handwritten text, and engage in nuanced discussions about image content, setting a new benchmark for multimodal AI assistants.
 
-### 📄 [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+### 📄 [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Alayrac et al. (DeepMind)  
 **Contribution:** `🦩 Few-Shot Visual Learning`

@@ -27,21 +27,21 @@ _From the original Transformer to State Space Models and Mixture of Experts, the
 
 ## 🏛️ Foundational Architectures
 
-### 📄 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+### 📄 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Vaswani et al. (Google)  
 **Contribution:** `🏗️ Transformer`
 
 > The paper that started it all. Introduced the **Transformer architecture**, replacing recurrent layers entirely with self-attention mechanisms. This breakthrough enabled massive parallelization during training and superior handling of long-range dependencies. Every modern LLM—from GPT to LLaMA—is built upon this foundational work.
 
-### 📄 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+### 📄 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Devlin et al. (Google)  
 **Contribution:** `🧠 Bidirectional`
 
 > Revolutionized NLP by introducing **bidirectional pre-training** with the Masked Language Model (MLM) objective. Unlike left-to-right models, BERT learns context from both directions simultaneously, achieving breakthrough performance on understanding tasks like question answering and sentiment analysis. Spawned an entire family of encoder-based models.
 
-### 📄 [Language Models are Unsupervised Multitask Learners (GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+### 📄 [Language Models are Unsupervised Multitask Learners (GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Radford et al. (OpenAI)  
 **Contribution:** `🎯 Decoder-Only`
@@ -52,7 +52,7 @@ _From the original Transformer to State Space Models and Mixture of Experts, the
 
 ## 🐍 State Space Models
 
-### 📄 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+### 📄 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Gu & Dao (CMU, Princeton)  
 **Contribution:** `🐍 SSM Architecture`
@@ -70,7 +70,7 @@ _From the original Transformer to State Space Models and Mixture of Experts, the
 
 ## 🧩 Mixture of Experts
 
-### 📄 [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
+### 📄 [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Fedus et al. (Google)  
 **Contribution:** `🧩 Sparse MoE`
@@ -95,7 +95,7 @@ _From the original Transformer to State Space Models and Mixture of Experts, the
 
 > 🆕 Successfully combines **Transformer attention layers with Mamba (State Space Model) layers** in a single architecture, breaking the "Transformer monopoly." This hybrid approach enables handling massive context windows (up to 256K+) with high throughput on a single GPU—something pure Transformers struggle with. By interleaving attention and SSM layers, Jamba achieves the best of both worlds: the modeling power of attention and the efficiency of state space models.
 
-### 📄 [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
+### 📄 [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Ghorbani, Behrouz, Zandieh, Karbasi, Mirrokni, Farajtabar (Google Research)  
 **Contribution:** `🧠 Neural Memory`
