@@ -109,7 +109,7 @@ _"Hot research areas this month - Where the field is moving"_
 
 ---
 
-## 📚 Must-Read Papers (Hall of Fame)
+## [📚 Must-Read Papers (Hall of Fame)](categories/Hall-of-fame.md)
 
 > 🏛️ **Papers that fundamentally changed the field**
 

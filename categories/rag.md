@@ -26,7 +26,7 @@ _From foundational RAG architectures to million-token context windows and persis
 
 ## 🔍 RAG Foundations
 
-### 📄 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+### 📄 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Lewis et al. (Facebook AI, UCL, NYU)  
 **Contribution:** `🔍 RAG Architecture`

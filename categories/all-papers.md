@@ -376,7 +376,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 ### [Direct Preference Optimization (DPO)](https://arxiv.org/abs/2305.18290)
 
-**Stanford** • `Training` `Alignment`
+**Stanford** • `Training` `Alignment` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Simpler alternative to RLHF without separate reward model
 
@@ -488,7 +488,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 ### [FlashAttention: Fast and Memory-Efficient Exact Attention](https://arxiv.org/abs/2205.14135)
 
-**Stanford** • `Efficiency` `Attention`
+**Stanford** • `Efficiency` `Attention` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > IO-aware attention 2-4x faster with 5-20x less memory
 
@@ -582,7 +582,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 ### [LoRA: Low-Rank Adaptation of LLMs](https://arxiv.org/abs/2106.09685)
 
-**Microsoft** • `Training` `PEFT`
+**Microsoft** • `Training` `PEFT` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Efficient fine-tuning with 10,000x fewer parameters
 
@@ -600,7 +600,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 ### [Learning Transferable Visual Models (CLIP)](https://arxiv.org/abs/2103.00020)
 
-**OpenAI** • `Multimodal` `Foundation`
+**OpenAI** • `Multimodal` `Foundation` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Joint embedding space enabling zero-shot visual classification
 
@@ -622,7 +622,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 ### [Retrieval-Augmented Generation for Knowledge-Intensive NLP](https://arxiv.org/abs/2005.11401)
 
-**Facebook AI, UCL, NYU** • `RAG` `Architecture`
+**Facebook AI, UCL, NYU** • `RAG` `Architecture` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Foundational RAG combining parametric and non-parametric memory
 

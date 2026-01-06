@@ -59,7 +59,7 @@ _From quantization breakthroughs to attention optimization, these papers enable 
 
 ## ⚡ Attention Optimization
 
-### 📄 [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
+### 📄 [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 **Authors:** Dao et al. (Stanford)  
 **Contribution:** `💾 IO-Aware Algorithm`

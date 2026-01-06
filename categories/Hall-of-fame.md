@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/Papers-41+-blue.svg)](https://github.com)
+[![Papers](https://img.shields.io/badge/Papers-40+-blue.svg)](https://github.com)
 [![Years](https://img.shields.io/badge/Years-2017--2025-green.svg)](https://github.com)
 [![License: CC0](https://img.shields.io/badge/License-CC0-yellow.svg)](https://opensource.org/licenses/CC0-1.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -107,6 +107,13 @@ _Each entry represents a significant milestone, from foundational architectures 
 
 > Empirically established that model performance scales predictably and follows a **power law** with increases in model size, dataset size, and compute. These "scaling laws" provided a crucial, quantitative roadmap for the industry, justifying the massive investment in larger models by showing that better performance was not just a matter of chance, but an expected outcome of scaling up.
 
+### 📄 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)
+
+**Authors:** Lewis et al. (Facebook AI, UCL, NYU)  
+**Contribution:** `📚 RAG`
+
+> Introduced the foundational **Retrieval-Augmented Generation (RAG)** paradigm that combines parametric memory (the LLM) with non-parametric memory (a retrieval system). This architecture allows models to access and ground their responses in external knowledge, dramatically improving factual accuracy and enabling knowledge updates without retraining. RAG became ubiquitous in production LLM systems and spawned an entire field of retrieval-enhanced AI.
+
 ### 📄 [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/pdf/2005.14165)
 
 **Authors:** Brown et al. (OpenAI)  
@@ -124,6 +131,20 @@ _Each entry represents a significant milestone, from foundational architectures 
 **Contribution:** `🧩 Efficiency`
 
 > Successfully introduced the **Mixture-of-Experts (MoE)** architecture to Transformers at an unprecedented scale. This allowed models to grow to over a trillion parameters while keeping the computational cost manageable. For any given input, the model would only activate a small subset of its weights (the "experts"), dramatically improving training and inference efficiency and paving the way for models like Mixtral.
+
+### 📄 [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020)
+
+**Authors:** Radford et al. (OpenAI)  
+**Contribution:** `🌉 Vision-Language`
+
+> Created a **joint embedding space for images and text** by training on 400 million image-text pairs from the internet. CLIP's contrastive learning approach enabled zero-shot visual classification—describing categories in natural language and having the model recognize them without task-specific training. This breakthrough bridged vision and language, becoming the foundation for DALL-E, Stable Diffusion, and the entire multimodal AI revolution.
+
+### 📄 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685)
+
+**Authors:** Hu et al. (Microsoft)  
+**Contribution:** `🔧 Efficient Fine-tuning`
+
+> Introduced **Low-Rank Adaptation (LoRA)**, a revolutionary technique that freezes pre-trained model weights and injects trainable low-rank decomposition matrices into Transformer layers. This reduces trainable parameters by 10,000x while maintaining or improving model quality, making fine-tuning accessible on consumer hardware. LoRA became the de facto standard for LLM customization and spawned an entire ecosystem of efficient adaptation methods.
 
 ### 📄 [Evaluating Large Language Models Trained on Code (Codex)](https://arxiv.org/pdf/2107.03374)
 
@@ -192,6 +213,13 @@ _Each entry represents a significant milestone, from foundational architectures 
 
 > Showcased the power of extreme scale (**540B parameters**) combined with Google's efficient Pathways system. PaLM achieved state-of-the-art performance on hundreds of language tasks and demonstrated breakthrough capabilities in few-shot learning and, notably, chain-of-thought reasoning, solving problems previously thought to be beyond the reach of LLMs.
 
+### 📄 [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135)
+
+**Authors:** Dao et al. (Stanford)  
+**Contribution:** `⚡ Attention Optimization`
+
+> Revolutionized attention computation by making it **IO-aware**, reducing memory reads/writes between GPU high-bandwidth memory and on-chip SRAM. FlashAttention computes exact attention 2-4x faster while using 5-20x less memory than standard implementations. This breakthrough enabled training with much longer sequences and became the universal foundation for efficient Transformer implementations—virtually every modern LLM training run uses it.
+
 ### 📄 [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682)
 
 **Authors:** Wei et al. (Google, DeepMind, Stanford, UNC)  
@@ -213,6 +241,7 @@ _Each entry represents a significant milestone, from foundational architectures 
 
 > Introduced **Reinforcement Learning from AI Feedback (RLAIF)**. This groundbreaking technique trains models to be helpful and harmless using AI-generated preference labels based on a simple "constitution" (a set of principles). This reduces the reliance on expensive and potentially biased human labeling for safety alignment, offering a more scalable path to safe AI.
 
+
 ---
 
 ## 🌍 2023: Democratization
@@ -230,6 +259,13 @@ _Each entry represents a significant milestone, from foundational architectures 
 **Contribution:** `🏆 Multimodality`
 
 > Set a new standard for large-scale models, demonstrating exceptional performance across a wide array of benchmarks. As a **large multimodal model**, GPT-4 exhibited human-level performance on various professional and academic exams and showcased deep reasoning and the ability to seamlessly process both text and image inputs, expanding the scope of what AI assistants can do.
+
+### 📄 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
+
+**Authors:** Rafailov et al. (Stanford)  
+**Contribution:** `🎯 Simplified Alignment`
+
+> Introduced **Direct Preference Optimization (DPO)**, a simpler alternative to RLHF that eliminates the need for a separate reward model and reinforcement learning entirely. DPO directly optimizes the language model on preference data using a clever reparameterization of the reward function. This approach is more stable, computationally efficient, and became the go-to method for preference-based fine-tuning, democratizing alignment for the open-source community.
 
 ### 📄 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288)
 
@@ -263,13 +299,6 @@ _Each entry represents a significant milestone, from foundational architectures 
 
 > Championed a truly open approach to AI research by releasing a state-of-the-art language model while providing not just the model weights, but also the **complete training data, code, and evaluation tools**. OLMo is designed explicitly to empower researchers to dissect, study, and advance the science of language models.
 
-### 📄 [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)
-
-**Authors:** Meta AI  
-**Contribution:** `🥇 SOTA Open Models`
-
-> Released a new family of **state-of-the-art open models**, including 8B and 70B parameter versions, that set a new standard for performance at their scale. Trained on a massive, high-quality dataset, Llama 3 demonstrated significant improvements in reasoning, code generation, and instruction following, rivaling many closed-source models.
-
 ### 📄 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 
 **Authors:** DeepSeek AI  
@@ -284,6 +313,13 @@ _Each entry represents a significant milestone, from foundational architectures 
 
 > Proposed **k-sparse autoencoders** for extracting interpretable features from LLMs with clean scaling laws. Trained a 16 million latent autoencoder on GPT-4 activations for 40 billion tokens—the largest interpretability experiment ever. Introduced new metrics for evaluating feature quality and released training code + autoencoders for open-source models. This work provides the methodological foundation for understanding what the largest models learn.
 
+### 📄 [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)
+
+**Authors:** Meta AI  
+**Contribution:** `🥇 SOTA Open Models`
+
+> Released a new family of **state-of-the-art open models**, including 8B and 70B parameter versions, that set a new standard for performance at their scale. Trained on a massive, high-quality dataset, Llama 3 demonstrated significant improvements in reasoning, code generation, and instruction following, rivaling many closed-source models.
+
 ---
 
 ## 🔮 2025: Self-Improvement
@@ -295,19 +331,19 @@ _Each entry represents a significant milestone, from foundational architectures 
 
 > Introduced a novel **Reinforcement Learning framework** that directly rewards models for generating correct intermediate reasoning steps, not just the final answer. This incentivizes the model to learn more robust and generalizable reasoning paths, significantly boosting performance on complex logic, math, and coding tasks where the process is as important as the result.
 
-### 📄 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
-
-**Authors:** Salesforce AI Research  
-**Contribution:** `♾️ Self-Improvement`
-
-> A paradigm shift in training that moves beyond human data. This paper introduces a method where a model can **autonomously generate its own reasoning problems**, attempt to solve them, and use the verifiable outcomes to improve itself through reinforcement learning. This self-play loop marks a key step towards self-improving, data-independent AI systems that can continuously enhance their own capabilities.
-
 ### 📄 [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663)
 
 **Authors:** Ghorbani, Behrouz, Zandieh, Karbasi, Mirrokni, Farajtabar (Google Research)  
 **Contribution:** `🧠 Test-Time Memory`
 
 > Introduced a revolutionary **memory-augmented architecture** that fundamentally reimagines how models handle long-range dependencies. Unlike traditional approaches that struggle with context limits, Titans learns to memorize and retrieve information dynamically at test time through a neural long-term memory module. This breakthrough enables handling context lengths beyond 2M tokens while maintaining precise recall, representing a paradigm shift from mere attention mechanisms to true persistent memory systems that can adapt to each input.
+
+### 📄 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+
+**Authors:** Salesforce AI Research  
+**Contribution:** `♾️ Self-Improvement`
+
+> A paradigm shift in training that moves beyond human data. This paper introduces a method where a model can **autonomously generate its own reasoning problems**, attempt to solve them, and use the verifiable outcomes to improve itself through reinforcement learning. This self-play loop marks a key step towards self-improving, data-independent AI systems that can continuously enhance their own capabilities.
 
 ---
 
