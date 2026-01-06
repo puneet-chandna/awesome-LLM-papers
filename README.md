@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Daily LLM Papers](https://img.shields.io/badge/Awesome%20LLM%20Papers-Breaking%20Research%20Daily-blue?style=for-the-badge&logo=arxiv&logoColor=white)
+![Best LLM Papers](https://img.shields.io/badge/Awesome%20LLM%20Papers-Curated%20Breakthroughs-blue?style=for-the-badge&logo=arxiv&logoColor=white)
+
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/puneet-chandna/awesome-LLM-papers?style=for-the-badge&color=yellow)](https://github.com/puneet-chandna/awesome-LLM-papers/stargazers)
-[![Updates](https://img.shields.io/badge/Updates-Weekly%20@%209AM%20IST-green?style=for-the-badge)](https://github.com/puneet-chandna/awesome-LLM-papers)
 
-<!-- [![Newsletter](https://img.shields.io/badge/Newsletter-500+%20Subscribers-red?style=for-the-badge)](https://your-newsletter-link.com) -->
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
@@ -25,9 +25,7 @@
 ---
 
 <img src="https://img.shields.io/badge/📄%20Papers%20Curated-140+-blue?style=flat-square&labelColor=000000" alt="Papers">
-<img src="https://img.shields.io/badge/🆕%20Added%20This%20Week-25-green?style=flat-square&labelColor=000000" alt="New Papers">
-<img src="https://img.shields.io/badge/👥%20Contributor-1-orange?style=flat-square&labelColor=000000" alt="Contributors">
-<img src="https://img.shields.io/badge/⭐%20Community%20Rated-10+-red?style=flat-square&labelColor=000000" alt="Ratings">
+<!-- <img src="https://img.shields.io/badge/👥%20Contributor-1-orange?style=flat-square&labelColor=000000" alt="Contributors"> -->
 
 </div>
 
