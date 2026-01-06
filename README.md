@@ -91,17 +91,17 @@ _"Hot research areas this month - Where the field is moving"_
 ## 📆 This Week's Essential Reads
 
 <details open>
-<summary><b>Click to expand this week's papers</b> (December 23-30, 2025)</summary>
+<summary><b>Click to expand this week's papers</b> (January 1-7, 2026)</summary>
 
 <br>
 
-| Day     | Paper                                                                                        | Impact                  | TL;DR                                                                                                                  |
-| ------- | -------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Mon** | [🧮 🧠 DeepSeek-V3.2: Reasoning Rival](https://arxiv.org/pdf/2512.02556)                     | `reasoning` `math`      | Open-source reasoning model rivaling GPT-5 in mathematics and logic at 1/10th the cost                                 |
-| **Tue** | [👁️ 🌍 VLJEPA: World Model Architecture](https://arxiv.org/pdf/2512.10942)                   | `vision` `architecture` | Meta's joint embedding predictive architecture for video/world modeling - learning physics without reconstruction      |
-| **Wed** | [⚡ Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663)             | `architecture` `memory` | Google's memory-augmented architecture handles 2M+ token context with persistent long-term memory                      |
-| **Thu** | [🏗️ Claude Opus 4.5: Engineering Excellence](https://www.anthropic.com/news/claude-opus-4-5) | `coding` `engineering`  | New benchmark for software engineering agents - outperforming human candidates in internal capability tests            |
-| **Fri** | [🤖 Self-Play SWE-RL: Autonomous Coding](https://arxiv.org/pdf/2512.18552)                   | `agents` `RL`           | Meta's system where agents learn to code by generating and fixing their own bugs, creating superhuman coding abilities |
+| Day     | Paper                                                                                                                                     | Impact                     | TL;DR                                                                                                             |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Mon** | [📐 mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)                                                        | `architecture` `stability` | Stabilizes residual connections at scale through manifold projection - 2.1% BBH improvement with minimal overhead |
+| **Tue** | [👁️ 🌍 VL-JEPA: World Model Architecture](https://arxiv.org/pdf/2512.10942)                                                               | `vision` `architecture`    | Meta's joint embedding predictive architecture for video/world modeling - learning physics without reconstruction |
+| **Wed** | [🤖 IQuest-Coder-V1: Code-Flow Training](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) | `coding` `agents`          | Revolutionary Code-Flow paradigm - 76.2% on SWE-Bench Verified with emergent autonomous error recovery            |
+| **Thu** | [🔧 Close the Loop: Infinite Tool-Use Data](https://arxiv.org/abs/2512.23611)                                                             | `training` `tool-use`      | Self-evolving system achieving 258% improvement on function calling with zero human annotation                    |
+| **Fri** | [ Context as a Tool: SWE-Agent Memory](https://arxiv.org/abs/2512.22087)                                                                  | `agents` `context`         | CAT paradigm for proactive context management - 57.6% on SWE-Bench with bounded memory                            |
 
 </details>
 

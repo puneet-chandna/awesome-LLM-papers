@@ -22,7 +22,7 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 **IQuest Coder Team** • `Training` `Reasoning` `Agentic Coding`
 
-> Code-Flow training paradigm on repository evolution and commit transitions; 57.6% on SWE-Bench Verified with emergent error recovery
+> Code-Flow training paradigm on repository evolution and commit transitions; 76.2% on SWE-Bench Verified with emergent error recovery
 
 ---
 
@@ -99,6 +99,12 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 **Yang et al. (Beihang University, Ubiquant, Renmin University of China)** • `Analysis` `Scaling Laws` `Code`
 
 > 1000+ experiments reveal language-specific scaling laws for code LLMs with proportion-dependent multilingual optimization
+
+### [DeepSeek-V3.2: Reasoning Rival](https://arxiv.org/pdf/2512.02556)
+
+**DeepSeek AI** • `Reasoning` `Math`
+
+> Open-source reasoning model rivaling GPT-5 in mathematics and logic at 1/10th the cost
 
 ---
 
@@ -247,12 +253,6 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 **Stanford** • `RAG` `Hierarchical`
 
 > Builds hierarchical tree of summaries for multi-level retrieval
-
-### [DeepSeek-V3.2: Reasoning Rival](https://arxiv.org/pdf/2512.02556)
-
-**DeepSeek AI** • `Reasoning` `Math`
-
-> Open-source reasoning model rivaling GPT-5 in mathematics and logic at 1/10th the cost
 
 ---
 

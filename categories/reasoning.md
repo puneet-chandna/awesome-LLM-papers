@@ -114,7 +114,7 @@ _From prompting strategies that unlock step-by-step thinking to systems that can
 **Authors:** IQuest Coder Team  
 **Contribution:** `🤖 Agentic Coding` `🔄 Code-Flow Training`
 
-> Introduces the **Code-Flow training paradigm** that trains models on repository evolution and commit transitions rather than static code snapshots. Achieves **57.6% on SWE-Bench Verified** through bifurcated post-training with separate Instruct and Thinking paths. The Thinking path uses reasoning-driven RL (GRPO) to trigger emergent autonomous error recovery capabilities. The **LoopCoder** variant uses recurrent architecture to achieve 80B-class reasoning depth with only 40B deployment footprint.
+> Introduces the **Code-Flow training paradigm** that trains models on repository evolution and commit transitions rather than static code snapshots. Achieves **76.2% on SWE-Bench Verified** through bifurcated post-training with separate Instruct and Thinking paths. The Thinking path uses reasoning-driven RL (GRPO) to trigger emergent autonomous error recovery capabilities. The **LoopCoder** variant uses recurrent architecture to achieve 80B-class reasoning depth with only 40B deployment footprint.
 
 ---
 

@@ -201,7 +201,7 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 **Authors:** IQuest Coder Team  
 **Contribution:** `🔄 Code-Flow Training` `🎯 Bifurcated Post-Training`
 
-> Introduces the **Code-Flow multi-stage training paradigm** that moves beyond static code to train on repository evolution, commit transitions, and code transformations. The training pipeline includes pre-training, mid-training (integrating reasoning and agentic trajectories), and bifurcated post-training with separate Instruct (general assistance) and Thinking (reasoning-driven RL) paths. This approach triggers emergent autonomous error recovery capabilities, with the Thinking model achieving state-of-the-art results on agentic coding benchmarks.
+> Introduces the **Code-Flow multi-stage training paradigm** that moves beyond static code to train on repository evolution, commit transitions, and code transformations. The training pipeline includes pre-training, mid-training (integrating reasoning and agentic trajectories), and bifurcated post-training with separate Instruct (general assistance) and Thinking (reasoning-driven RL) paths. This approach triggers emergent autonomous error recovery capabilities, with the Thinking model achieving **76.2% on SWE-Bench Verified**—state-of-the-art for open models on agentic coding benchmarks.
 
 ---
 
