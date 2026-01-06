@@ -187,6 +187,24 @@ _From RLHF to parameter-efficient methods, these papers define how we train and 
 
 ---
 
+### 📄 🆕 [Close the Loop: Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing](https://arxiv.org/abs/2512.23611)
+
+**Authors:** Li et al. (Sichuan University, Beihang University, IQuest Research)  
+**Contribution:** `🔧 Tool-Use Training` `🤖 Multi-Agent Synthesis`
+
+> Introduces **InfTool**, a fully autonomous self-evolving system that synthesizes infinite tool-use data purely from raw API specifications. Using multi-agent role-playing (User Simulator, Tool-Calling Assistant, MCP Server), it generates diverse verified interaction trajectories. The closed-loop mechanism trains models using GRPO with gated rewards, then uses improved models to generate higher-quality data. Achieved **258% improvement** (19.8% → 70.9%) on Berkeley Function-Calling Leaderboard, rivaling models 10x larger—all with zero human annotation.
+
+---
+
+### 📄 🆕 [IQuest-Coder-V1: Code-Flow Training for Autonomous Software Engineering](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
+
+**Authors:** IQuest Coder Team  
+**Contribution:** `🔄 Code-Flow Training` `🎯 Bifurcated Post-Training`
+
+> Introduces the **Code-Flow multi-stage training paradigm** that moves beyond static code to train on repository evolution, commit transitions, and code transformations. The training pipeline includes pre-training, mid-training (integrating reasoning and agentic trajectories), and bifurcated post-training with separate Instruct (general assistance) and Thinking (reasoning-driven RL) paths. This approach triggers emergent autonomous error recovery capabilities, with the Thinking model achieving state-of-the-art results on agentic coding benchmarks.
+
+---
+
 <div align="center">
 
 ### 🌟 Contributing

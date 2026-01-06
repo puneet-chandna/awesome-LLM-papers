@@ -3,16 +3,26 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/Papers-141-blue.svg)](https://github.com)
-[![Years](https://img.shields.io/badge/Years-2017--2025-green.svg)](https://github.com)
+[![Papers](https://img.shields.io/badge/Papers-145-blue.svg)](https://github.com)
+[![Years](https://img.shields.io/badge/Years-2017--2026-green.svg)](https://github.com)
 
 **Complete chronological listing of all LLM papers in this repository**
 
 _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)_
 
-[2025](#-2025) • [2024](#-2024) • [2023](#-2023) • [2022](#-2022) • [2021](#-2021) • [2020](#-2020) • [2019](#-2019) • [2018](#-2018) • [2017](#-2017)
+[2026](#-2026) • [2025](#-2025) • [2024](#-2024) • [2023](#-2023) • [2022](#-2022) • [2021](#-2021) • [2020](#-2020) • [2019](#-2019) • [2018](#-2018) • [2017](#-2017)
 
 </div>
+
+---
+
+## 🚀 2026
+
+### [IQuest-Coder-V1: Code-Flow Training for Autonomous Software Engineering](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
+
+**IQuest Coder Team** • `Training` `Reasoning` `Agentic Coding`
+
+> Code-Flow training paradigm on repository evolution and commit transitions; 57.6% on SWE-Bench Verified with emergent error recovery
 
 ---
 
@@ -71,6 +81,24 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 **Google Research** • `Architecture` `Memory` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
 
 > Revolutionary memory architecture handling 2M+ tokens with persistent test-time memory
+
+### [Close the Loop: Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing](https://arxiv.org/abs/2512.23611)
+
+**Li et al. (Sichuan University, Beihang University, IQuest Research)** • `Training` `Tool-Use`
+
+> Multi-agent self-evolving system achieving 258% improvement on function calling with zero human annotation
+
+### [Context as a Tool: Context Management for Long-Horizon SWE-Agents](https://arxiv.org/abs/2512.22087)
+
+**Liu et al. (Beihang University, Manchester, Ubiquant)** • `Reasoning` `Agents`
+
+> CAT paradigm elevating context management to a callable tool; 57.6% on SWE-Bench Verified with bounded context budgets
+
+### [Scaling Laws for Code: Every Programming Language Matters](https://arxiv.org/abs/2512.13472)
+
+**Yang et al. (Beihang University, Ubiquant, Renmin University of China)** • `Analysis` `Scaling Laws` `Code`
+
+> 1000+ experiments reveal language-specific scaling laws for code LLMs with proportion-dependent multilingual optimization
 
 ---
 

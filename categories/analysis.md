@@ -88,6 +88,24 @@ _Understanding the inner workings of LLMs—from circuit-level analysis to emerg
 
 ---
 
+## 📏 Scaling Laws
+
+### 📄 [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat\u0026labelColor=000000)
+
+**Authors:** Kaplan et al. (OpenAI)  
+**Contribution:** `📊 Foundational Scaling`
+
+> Established **predictable power-law scaling relationships** between model performance, model size, dataset size, and compute. This foundational work revealed that loss scales as smooth power laws across many orders of magnitude, enabling accurate predictions of how performance improves with scale. These laws guided the industry's investment in ever-larger models and democratized understanding of what scale achievements were achievable.
+
+### 📄 [Scaling Laws for Code: Every Programming Language Matters](https://arxiv.org/abs/2512.13472) 🆕
+
+**Authors:** Yang et al. (Beihang University, Ubiquant, Renmin University of China)  
+**Contribution:** `💻 Language-Specific Scaling`
+
+> First comprehensive study of **language-specific scaling laws for code LLMs**. Through 1000+ experiments training 420 models across 7 programming languages (Python, JavaScript, TypeScript, Java, C#, Go, Rust), the paper reveals that interpreted languages like Python benefit more from scale than compiled languages like Rust. Introduces **proportion-dependent multilingual scaling laws** and the concept of **irreducible loss** as a measure of language complexity. Provides actionable guidance for optimal token allocation when training multilingual code models.
+
+---
+
 ## 📊 Evaluation
 
 ### 📄 [Measuring Massive Multitask Language Understanding (MMLU)](https://arxiv.org/abs/2009.03300)

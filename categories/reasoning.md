@@ -109,6 +109,24 @@ _From prompting strategies that unlock step-by-step thinking to systems that can
 
 ---
 
+### 📄 [IQuest-Coder-V1: Code-Flow Training for Autonomous Software Engineering](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
+
+**Authors:** IQuest Coder Team  
+**Contribution:** `🤖 Agentic Coding` `🔄 Code-Flow Training`
+
+> Introduces the **Code-Flow training paradigm** that trains models on repository evolution and commit transitions rather than static code snapshots. Achieves **57.6% on SWE-Bench Verified** through bifurcated post-training with separate Instruct and Thinking paths. The Thinking path uses reasoning-driven RL (GRPO) to trigger emergent autonomous error recovery capabilities. The **LoopCoder** variant uses recurrent architecture to achieve 80B-class reasoning depth with only 40B deployment footprint.
+
+---
+
+### 📄 [Context as a Tool: Context Management for Long-Horizon SWE-Agents](https://arxiv.org/abs/2512.22087)
+
+**Authors:** Liu et al. (Beihang University, Manchester, Ubiquant)  
+**Contribution:** `🧠 Context Management` `🤖 SWE Agents`
+
+> Introduces the **CAT (Context as a Tool)** paradigm that elevates context maintenance to a callable tool within the agent's decision-making process. Instead of passive append-only context or compression heuristics, agents proactively organize context and compress historical interactions at appropriate milestones. The **SWE-Compressor** model achieved **57.6% on SWE-Bench Verified**, significantly outperforming ReAct-based agents while maintaining stable long-horizon reasoning under bounded context budgets.
+
+---
+
 <div align="center">
 
 ### 🌟 Contributing

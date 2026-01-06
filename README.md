@@ -4,10 +4,8 @@
 
 ![Best LLM Papers](https://img.shields.io/badge/Awesome%20LLM%20Papers-Curated%20Breakthroughs-blue?style=for-the-badge&logo=arxiv&logoColor=white)
 
-
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/puneet-chandna/awesome-LLM-papers?style=for-the-badge&color=yellow)](https://github.com/puneet-chandna/awesome-LLM-papers/stargazers)
-
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
@@ -24,7 +22,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/📄%20Papers%20Curated-140+-blue?style=flat-square&labelColor=000000" alt="Papers">
+<img src="https://img.shields.io/badge/📄%20Papers%20Curated-145+-blue?style=flat-square&labelColor=000000" alt="Papers">
 <!-- <img src="https://img.shields.io/badge/👥%20Contributor-1-orange?style=flat-square&labelColor=000000" alt="Contributors"> -->
 
 </div>
@@ -260,7 +258,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 
 **Looking for something specific?** Jump directly to papers in these areas:
 
-**📋 [All Papers (Chronological)](categories/all-papers.md)** • Complete index of all 141 papers from 2017-2025
+**📋 [All Papers (Chronological)](categories/all-papers.md)** • Complete index of all 145 papers from 2017-2025
 
 <div align="center">
 <table>
@@ -278,7 +276,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### [🧮 **Reasoning & Agents**](categories/reasoning.md)
 
 > _CoT, Planning, Tool use, Autonomous systems_  
-> **📄 6 papers** &nbsp;|&nbsp; 🔥🔥
+> **📄 8 papers** &nbsp;|&nbsp; 🔥🔥
 
 </td>
 </tr>
@@ -297,7 +295,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### 🎯 [**Training & Alignment**](categories/training.md)
 
 > _RLHF, DPO, Fine-tuning, PEFT methods_  
-> **📄 16 papers** &nbsp;|&nbsp; →
+> **📄 18 papers** &nbsp;|&nbsp; →
 
 </td>
 </tr>
@@ -335,7 +333,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 ### 🔬 [**Analysis & Theory**](categories/analysis.md)
 
 > _Interpretability, Mechanistic, Evaluations_  
-> **📄 11 papers** &nbsp;|&nbsp; →
+> **📄 13 papers** &nbsp;|&nbsp; →
 
 </td>
 </tr>
