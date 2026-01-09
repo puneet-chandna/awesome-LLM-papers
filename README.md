@@ -107,7 +107,7 @@ _"Hot research areas this month - Where the field is moving"_
 
 ---
 
-## [📚 Must-Read Papers (Hall of Fame)](categories/Hall-of-fame.md)
+## [📚 Must-Read Papers (Hall of Fame)](categories/hall-of-fame.md)
 
 > 🏛️ **Papers that fundamentally changed the field**
 
@@ -250,7 +250,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </tbody>
 </table>
 
-[View all foundational papers →](categories/Hall-of-fame.md)
+[View all foundational papers →](categories/hall-of-fame.md)
 
 ---
 
