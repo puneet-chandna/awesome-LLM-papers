@@ -1,8 +1,6 @@
-# Awesome LLM Papers
+# Awesome LLM Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
 > A curated list of seminal and breakthrough papers in Large Language Models.
 
@@ -10,13 +8,13 @@ Read what matters. Skip the noise. 🎯
 
 ## Contents
 
-- [Today's Pick](#-todays-pick)
-- [Trending Topics](#-trending-topics)
-- [This Week's Essential Reads](#-this-weeks-essential-reads)
-- [Hall of Fame](#-must-read-papers-hall-of-fame)
-- [Browse by Category](#-browse-by-category)
-- [Research Trends Dashboard](#-research-trends-dashboard)
-- [Contributing](#-contributing)
+- [🔥 Today's Pick](#-todays-pick)
+- [🔥 Trending Topics](#-trending-topics)
+- [📆 This Week's Essential Reads](#-this-weeks-essential-reads)
+- [📚 Must-Read Papers (Hall of Fame)](#-must-read-papers-hall-of-fame)
+- [🗂️ Browse by Category](#-browse-by-category)
+- [📈 Research Trends Dashboard](#-research-trends-dashboard)
+- [🤝 Contributing](#-contributing)
 
 ## 🔥 Today's Pick
 
@@ -64,16 +62,10 @@ Read what matters. Skip the noise. 🎯
 
 _"Hot research areas this month - Where the field is moving"_
 
-<div align="center">
-
-| Topic                             | Papers                                                       | Why It's Trending                                                        |
-| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| 🧠 **Memory-Augmented LLMs**      | [10 papers](categories/architectures.md#-memory-systems)     | Titans architecture - test-time memorization over 2M+ token contexts     |
-| 🤖 **Agentic AI & Autonomy**      | [15 papers](categories/reasoning.md#-agent-systems)          | Self-play SWE-RL, autonomous coding agents managing full repositories    |
-| 🚀 **MoE & Sparse Architectures** | [12 papers](categories/architectures.md#-mixture-of-experts) | DeepSeek V3 - 671B params, 37B active per inference, crushing benchmarks |
-| 🔄 **Recursive Language Models**  | [6 papers](categories/training.md#-self-improvement)         | Context folding, sub-LLM calling - managing infinite context elegantly   |
-
-</div>
+- 🧠 **Memory-Augmented LLMs** - [10 papers](categories/architectures.md#-memory-systems) - Titans architecture with test-time memorization over 2M+ token contexts
+- 🤖 **Agentic AI & Autonomy** - [15 papers](categories/reasoning.md#-agent-systems) - Self-play SWE-RL, autonomous coding agents managing full repositories  
+- 🚀 **MoE & Sparse Architectures** - [12 papers](categories/architectures.md#-mixture-of-experts) - DeepSeek V3 with 671B params, 37B active per inference
+- 🔄 **Recursive Language Models** - [6 papers](categories/training.md#-self-improvement) - Context folding, sub-LLM calling for infinite context
 
 ---
 
@@ -82,15 +74,11 @@ _"Hot research areas this month - Where the field is moving"_
 <details open>
 <summary><b>Click to expand this week's papers</b> (January 1-7, 2026)</summary>
 
-<br>
-
-| Day     | Paper                                                                                                                                     | Impact                     | TL;DR                                                                                                             |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Mon** | [📐 mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)                                                        | `architecture` `stability` | Stabilizes residual connections at scale through manifold projection - 2.1% BBH improvement with minimal overhead |
-| **Tue** | [👁️ 🌍 VL-JEPA: World Model Architecture](https://arxiv.org/pdf/2512.10942)                                                               | `vision` `architecture`    | Meta's joint embedding predictive architecture for video/world modeling - learning physics without reconstruction |
-| **Wed** | [🤖 IQuest-Coder-V1: Code-Flow Training](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) | `coding` `agents`          | Revolutionary Code-Flow paradigm - 76.2% on SWE-Bench Verified with emergent autonomous error recovery            |
-| **Thu** | [🔧 Close the Loop: Infinite Tool-Use Data](https://arxiv.org/abs/2512.23611)                                                             | `training` `tool-use`      | Self-evolving system achieving 258% improvement on function calling with zero human annotation                    |
-| **Fri** | [ Context as a Tool: SWE-Agent Memory](https://arxiv.org/abs/2512.22087)                                                                  | `agents` `context`         | CAT paradigm for proactive context management - 57.6% on SWE-Bench with bounded memory                            |
+- **Monday** - [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) - Stabilizes residual connections at scale through manifold projection.
+- **Tuesday** - [VL-JEPA: World Model Architecture](https://arxiv.org/pdf/2512.10942) - Meta's joint embedding predictive architecture for video/world modeling.  
+- **Wednesday** - [IQuest-Coder-V1: Code-Flow Training](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) - Revolutionary Code-Flow paradigm achieving 76.2% on SWE-Bench Verified.
+- **Thursday** - [Close the Loop: Infinite Tool-Use Data](https://arxiv.org/abs/2512.23611) - Self-evolving system achieving 258% improvement on function calling.
+- **Friday** - [Context as a Tool: SWE-Agent Memory](https://arxiv.org/abs/2512.22087) - CAT paradigm for proactive context management.
 
 </details>
 
@@ -239,7 +227,7 @@ The technique behind ChatGPT's success. Aligns model outputs with human preferen
 </tbody>
 </table>
 
-[View all foundational papers →](categories/hall-of-fame.md)
+View all foundational papers →
 
 ---
 
@@ -361,12 +349,15 @@ graph TD
     style F fill:#059669
 ```
 
-**January 2026 Momentum:**
+### January 2026 Momentum
 
-- 📈 **Rising:** Agentic AI (+520%), Memory Architectures (+480%), MoE & Sparse Models (+380%), Recursive Language Models (+350%)
-- 📉 **Cooling:** Vanilla RAG (-45%), Basic Prompting (-70%), Static Context Windows (-55%)
-- 🔮 **Next Wave:** World Models, Self-play Training, Neuromorphic Chips, Context Folding
-- **Current Hot Topics:** 🔥 Titans & Test-Time Memory | 🔥 DeepSeek Reasoning | 🔥 Autonomous Code Agents | 🔥 200K+ Token Windows
+📈 **Rising:** Agentic AI (+520%), Memory Architectures (+480%), MoE & Sparse Models (+380%), Recursive Language Models (+350%).
+
+📉 **Cooling:** Vanilla RAG (-45%), Basic Prompting (-70%), Static Context Windows (-55%).
+
+🔮 **Next Wave:** World Models, Self-play Training, Neuromorphic Chips, Context Folding.
+
+**Current Hot Topics:** Titans & Test-Time Memory, DeepSeek Reasoning, Autonomous Code Agents, 200K+ Token Windows.
 
 </div>
 
@@ -376,7 +367,7 @@ graph TD
 
 <div align="center">
 
-### **[Add a paper in 30 seconds!](CONTRIBUTING.md)**
+### **[Add a paper in 30 seconds](CONTRIBUTING.md)**
 
 <a href="https://github.com/puneet-chandna/awesome-LLM-papers/issues/new?assignees=&labels=new-paper&template=new-paper.yml&title=%5BPaper%5D%3A+">
   <img src="https://img.shields.io/badge/Submit%20Paper-Click%20Here-blue?style=for-the-badge&logo=github" alt="Submit Paper">
@@ -425,11 +416,11 @@ graph TD
 
 <div align="center">
 
-**[⬆ Back to Top](#-awesome-LLM-papers)**
+[⬆ Back to Top](#-awesome-LLM-papers)
 
 Made with ❤️ for the AI Research Community
 
-_Last updated: January 5, 2026, 7:00 PM IST_
+Last updated: January 9, 2026, 7:00 PM IST
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/puneet_chandna_?style=social)](https://x.com/puneet_chandna_)
 [![GitHub followers](https://img.shields.io/github/followers/puneet-chandna?style=social)](https://github.com/puneet-chandna)
