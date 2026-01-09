@@ -1,18 +1,11 @@
-# ⚡ Efficiency & Scaling: Optimizing LLM Performance
-
-<div align="center">
+# Awesome Efficiency & Scaling
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/Papers-12+-blue.svg)](https://github.com)
-[![Years](https://img.shields.io/badge/Years-2022--2024-green.svg)](https://github.com)
-[![License: CC0](https://img.shields.io/badge/License-CC0-yellow.svg)](https://opensource.org/licenses/CC0-1.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-### Essential papers on making LLMs faster, smaller, and more deployable
+Essential papers on making LLMs faster, smaller, and more deployable.
 
 _From quantization breakthroughs to attention optimization, these papers enable running powerful models on limited hardware._
-
-</div>
 
 ---
 

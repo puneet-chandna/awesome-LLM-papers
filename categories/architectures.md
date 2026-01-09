@@ -1,18 +1,11 @@
-# 🏗️ Model Architectures: The Building Blocks of LLMs
-
-<div align="center">
+# Awesome Model Architectures
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/Papers-16+-blue.svg)](https://github.com)
-[![Years](https://img.shields.io/badge/Years-2017--2025-green.svg)](https://github.com)
-[![License: CC0](https://img.shields.io/badge/License-CC0-yellow.svg)](https://opensource.org/licenses/CC0-1.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-### A curated collection of papers defining the core architectures that power modern language models
+A curated collection of papers defining the core architectures that power modern language models.
 
 _From the original Transformer to State Space Models and Mixture of Experts, these papers represent the fundamental innovations in neural network design for language understanding._
-
-</div>
 
 ---
 

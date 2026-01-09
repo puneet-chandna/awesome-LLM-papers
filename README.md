@@ -1,33 +1,22 @@
-# 🧠 Awesome LLM Papers
+# Awesome LLM Papers
 
-<div align="center">
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
-![Best LLM Papers](https://img.shields.io/badge/Awesome%20LLM%20Papers-Curated%20Breakthroughs-blue?style=for-the-badge&logo=arxiv&logoColor=white)
+> A curated list of seminal and breakthrough papers in Large Language Models.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/puneet-chandna/awesome-LLM-papers?style=for-the-badge&color=yellow)](https://github.com/puneet-chandna/awesome-LLM-papers/stargazers)
+Read what matters. Skip the noise. 🎯
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+## Contents
 
-<h3>Read what matters. Skip the noise. 🎯</h3>
-
-<p align="center">
-  <a href="#-todays-pick">Today's Pick</a> •
-  <a href="#-this-weeks-essential-reads">This Week</a> •
-  <a href="#-must-read-papers-hall-of-fame">Hall of Fame</a> •
-  <a href="#-browse-by-category">Categories</a> •
-  <a href="#-research-trends-dashboard">Research Trends</a> •
-  <a href="#-contributing">Contribute</a>
-</p>
-
----
-
-<img src="https://img.shields.io/badge/📄%20Papers%20Curated-145+-blue?style=flat-square&labelColor=000000" alt="Papers">
-<!-- <img src="https://img.shields.io/badge/👥%20Contributor-1-orange?style=flat-square&labelColor=000000" alt="Contributors"> -->
-
-</div>
-
----
+- [Today's Pick](#-todays-pick)
+- [Trending Topics](#-trending-topics)
+- [This Week's Essential Reads](#-this-weeks-essential-reads)
+- [Hall of Fame](#-must-read-papers-hall-of-fame)
+- [Browse by Category](#-browse-by-category)
+- [Research Trends Dashboard](#-research-trends-dashboard)
+- [Contributing](#-contributing)
 
 ## 🔥 Today's Pick
 
@@ -387,7 +376,7 @@ graph TD
 
 <div align="center">
 
-### **Add a paper in 30 seconds!**
+### **[Add a paper in 30 seconds!](CONTRIBUTING.md)**
 
 <a href="https://github.com/puneet-chandna/awesome-LLM-papers/issues/new?assignees=&labels=new-paper&template=new-paper.yml&title=%5BPaper%5D%3A+">
   <img src="https://img.shields.io/badge/Submit%20Paper-Click%20Here-blue?style=for-the-badge&logo=github" alt="Submit Paper">
