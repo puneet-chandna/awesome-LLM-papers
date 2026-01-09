@@ -28,59 +28,11 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 ## 🔥 2025
 
-### [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
-
-**Salesforce AI** • `Reasoning` `Self-Improvement` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
-
-> Model autonomously generates reasoning problems and improves through self-play without human data
-
-### [VL-JEPA: Joint Embedding Predictive Architecture for Video/World Modeling](https://arxiv.org/abs/2512.10942)
-
-**Meta AI** • `Multimodal` `World Models`
-
-> Learns physics and dynamics from video by predicting embeddings rather than pixels
-
-### [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
-
-**DeepSeek AI** • `Multimodal` `Compression`
-
-> Achieves 97% OCR accuracy at 10x compression, processing 200K+ pages/day on single GPU
-
-### [The Illusion of Thinking: Understanding Strengths and Limitations of Reasoning Models](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
-
-**Apple ML Research** • `Analysis` `Reasoning`
-
-> Reveals that reasoning models "give up" on hard tasks and reasoning is often an illusion
-
-### [HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference](https://dl.acm.org/doi/epdf/10.1145/3744244)
-
-**TODAES** • `Efficiency` `Pruning`
-
-> Hardware-specific pruning considering device constraints for efficient edge deployment
-
-### [Janus-Pro: Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2501.17811)
-
-**DeepSeek AI** • `Multimodal` `Architecture`
-
-> Decouples visual encoding for understanding vs generation, excelling at both without trade-offs
-
 ### [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)
 
 **DeepSeek AI** • `Architecture` `Stability`
 
 > Stabilizes residual connections at scale through manifold projection
-
-### [DeepSeek-R1: Incentivizing Reasoning Capability via RL](https://arxiv.org/abs/2501.12948)
-
-**DeepSeek AI** • `Reasoning` `RL` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
-
-> Rewards correct reasoning steps, not just final answers, boosting problem-solving
-
-### [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
-
-**Google Research** • `Architecture` `Memory` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
-
-> Revolutionary memory architecture handling 2M+ tokens with persistent test-time memory
 
 ### [Close the Loop: Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing](https://arxiv.org/abs/2512.23611)
 
@@ -100,15 +52,75 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > 1000+ experiments reveal language-specific scaling laws for code LLMs with proportion-dependent multilingual optimization
 
+### [VL-JEPA: Joint Embedding Predictive Architecture for Video/World Modeling](https://arxiv.org/abs/2512.10942)
+
+**Meta AI** • `Multimodal` `World Models`
+
+> Learns physics and dynamics from video by predicting embeddings rather than pixels
+
 ### [DeepSeek-V3.2: Reasoning Rival](https://arxiv.org/pdf/2512.02556)
 
 **DeepSeek AI** • `Reasoning` `Math`
 
 > Open-source reasoning model rivaling GPT-5 in mathematics and logic at 1/10th the cost
 
+### [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
+
+**DeepSeek AI** • `Multimodal` `Compression`
+
+> Achieves 97% OCR accuracy at 10x compression, processing 200K+ pages/day on single GPU
+
+### [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
+
+**Salesforce AI** • `Reasoning` `Self-Improvement` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+> Model autonomously generates reasoning problems and improves through self-play without human data
+
+### [Janus-Pro: Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2501.17811)
+
+**DeepSeek AI** • `Multimodal` `Architecture`
+
+> Decouples visual encoding for understanding vs generation, excelling at both without trade-offs
+
+### [DeepSeek-R1: Incentivizing Reasoning Capability via RL](https://arxiv.org/abs/2501.12948)
+
+**DeepSeek AI** • `Reasoning` `RL` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+> Rewards correct reasoning steps, not just final answers, boosting problem-solving
+
+### [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
+
+**Google Research** • `Architecture` `Memory` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+> Revolutionary memory architecture handling 2M+ tokens with persistent test-time memory
+
+### [The Illusion of Thinking: Understanding Strengths and Limitations of Reasoning Models](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+
+**Apple ML Research** • `Analysis` `Reasoning`
+
+> Reveals that reasoning models "give up" on hard tasks and reasoning is often an illusion
+
+### [HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference](https://dl.acm.org/doi/epdf/10.1145/3744244)
+
+**TODAES** • `Efficiency` `Pruning`
+
+> Hardware-specific pruning considering device constraints for efficient edge deployment
+
 ---
 
 ## 🚀 2024
+
+### [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
+
+**Meta AI** • `Architecture` `Open Models` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+> State-of-the-art open models rivaling closed-source systems
+
+### [RAG vs Long-Context LLMs: A Comprehensive Study](https://arxiv.org/abs/2407.16833)
+
+**EMNLP** • `RAG` `Analysis`
+
+> Proves RAG still needed despite 1M+ context - cheaper and more accurate
 
 ### [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2405.14734)
 
@@ -146,18 +158,6 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Shows 100+ fake examples in context override safety training via in-context learning
 
-### [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
-
-**Meta AI** • `Architecture` `Open Models` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
-
-> State-of-the-art open models rivaling closed-source systems
-
-### [RAG vs Long-Context LLMs: A Comprehensive Study](https://arxiv.org/abs/2407.16833)
-
-**EMNLP** • `RAG` `Analysis`
-
-> Proves RAG still needed despite 1M+ context - cheaper and more accurate
-
 ### [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
 
 **AI21 Labs** • `Architecture` `Hybrid`
@@ -187,18 +187,6 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 **Meta, ETH Zurich** • `Efficiency` `Pruning`
 
 > Up to half of LLM layers can be removed with minimal impact
-
-### [Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)
-
-**Microsoft, UW-Madison** • `Multimodal` `Instruction`
-
-> Connects vision encoder to LLM, pioneering visual instruction following
-
-### [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
-
-**OpenAI** • `Multimodal` `Intelligence` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
-
-> Large multimodal model with human-level performance on professional exams
 
 ### [The Era of 1-bit LLMs: BitNet b1.58](https://arxiv.org/abs/2402.17764)
 
@@ -342,6 +330,12 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 
 > Open models with commercial license and comprehensive safety
 
+### [Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)
+
+**Microsoft, UW-Madison** • `Multimodal` `Instruction`
+
+> Connects vision encoder to LLM, pioneering visual instruction following
+
 ### [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
 
 **CMU, Center for AI Safety** • `Safety` `Analysis`
@@ -419,6 +413,12 @@ _Sorted from newest to oldest • ![Hall of Fame](https://img.shields.io/badge/�
 **Northeastern, MIT** • `Reasoning` `Self-Reflection`
 
 > Agents learn from mistakes through verbose self-reflection
+
+### [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+
+**OpenAI** • `Multimodal` `Intelligence` • ![Hall of Fame](https://img.shields.io/badge/⭐-Hall%20of%20Fame-ff1493?style=flat&labelColor=000000)
+
+> Large multimodal model with human-level performance on professional exams
 
 ### [Scaling Monosemanticity: Extracting Interpretable Features](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 
